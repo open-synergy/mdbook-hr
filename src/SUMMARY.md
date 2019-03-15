@@ -1,3 +1,17 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Konfigurasi](./konfigurasi.md)
+    - [Award Type](./konfigurasi/award-type.md)
+    - [Award Reason](./konfigurasi/award-reason.md)
+    - [Dicipline Type](./konfigurasi/dicipline-type.md)
+    - [Dicipline Reason](./konfigurasi/dicipline-reason.md)
+- [Transaksi](./transaksi.md)
+    - [Employee Contract](./transaksi/employee-contract.md)
+    - [Join Transition](./transaksi/join-transition.md)
+    - [Promotion Transition](./transaksi/promotion-transition.md)
+    - [Demotion Transition](./transaksi/demotion-transition.md)
+    - [Mutation Transition](./transaksi/mutation-transition.md)
+    - [New Assignment Transition](./transaksi/new-assignment-transition.md)
+    - [Termination Transition](./transaksi/termination-transition.md)
+    - [Employee Award](./transaksi/employee-award.md)
+    - [Employee Dicipline](./transaksi/employee-dicipline.md)
