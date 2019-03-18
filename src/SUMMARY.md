@@ -64,3 +64,6 @@
         - [Menyetujui Employee Dicipline](./transaksi/employee-dicipline/menyetujui.md)
         - [Memulai Proses Employee Dicipline](./transaksi/employee-dicipline/memulai-proses.md)
         - [Memvalidasi Employee Dicipline](./transaksi/employee-dicipline/memvalidasi.md)
+    - [Expense](./transaksi/expense.md)
+        - [Penjelasan](./transaksi/expense/penjelasan.md)
+        - [Membuat Expense](./transaksi/expense/membuat.md)
