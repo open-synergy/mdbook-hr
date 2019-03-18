@@ -13,6 +13,8 @@
     - [Award Reason](./konfigurasi/award-reason.md)
     - [Dicipline Type](./konfigurasi/dicipline-type.md)
     - [Dicipline Reason](./konfigurasi/dicipline-reason.md)
+        - [Penjelasan](./konfigurasi/dicipline-reason/penjelasan.md)
+        - [Membuat Dicipline Reason](./konfigurasi/dicipline-reason/membuat.md)
     - [Timesheet Account](./konfigurasi/timesheet-account.md)
     - [Leave Type](./konfigurasi/leave-type.md)
     - [Skill](./konfigurasi/skill.md)
