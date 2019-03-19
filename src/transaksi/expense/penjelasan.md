@@ -40,6 +40,10 @@ Item reimbusement
 
 Tanggal terjadinya item reimbusement
 
+#### <a name="field-expense-note">Expense Note</a>
+
+Catatan tambahan terkait item reimbusement
+
 #### <a name="field-reference">Reference</a>
 
 Dokumen pendukung terjadinya item reimbusement
