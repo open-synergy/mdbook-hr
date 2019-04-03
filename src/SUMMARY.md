@@ -2,6 +2,7 @@
 
 - [Konfigurasi](./konfigurasi.md)
     - [Job Grade Category](./konfigurasi/job-grade-category.md)
+      - [Membuat](./konfigurasi/job-grade-category/membuat.md)
     - [Job Grade](./konfigurasi/job-grade.md)
     - [Job Family Grade](./konfigurasi/job-family-grade.md)
     - [Job Family Level](./konfigurasi/job-family-level.md)
