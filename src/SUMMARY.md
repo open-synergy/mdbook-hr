@@ -1,5 +1,7 @@
 # Summary
 
+[Pra-Kata](./prakata.md)
+[Terminologi](./terminologi.md)
 - [Konfigurasi](./konfigurasi.md)
     - [Job Family Modelling](./konfigurasi/job-family-modelling.md)
       - [Job Grade Category](./konfigurasi/job-grade-category.md)
