@@ -19,7 +19,7 @@
         - [Membuat Job Family Level](./konfigurasi/job-family-level/membuat.md)
       - [Job Family](./konfigurasi/job-family.md)
         - [Penjelasan](./konfigurasi/job-family/penjelasan.md)
-        - [Membuat Job Family Level](./konfigurasi/job-family/membuat.md)
+        - [Membuat Job Family](./konfigurasi/job-family/membuat.md)
       - [Job Positions](./konfigurasi/job-positions.md)
         - [Penjelasan](./konfigurasi/job-positions/penjelasan.md)
         - [Membuat Job Positions](./konfigurasi/job-positions/membuat.md)      
