@@ -25,6 +25,8 @@
         - [Membuat Job Positions](./konfigurasi/job-positions/membuat.md)      
     - [Department Type](./konfigurasi/department-type.md)
     - [Department](./konfigurasi/department.md)
+        - [Penjelasan](./konfigurasi/department/penjelasan.md)
+        - [Membuat Department](./konfigurasi/department/membuat.md)      
     - [Award Type](./konfigurasi/award-type.md)
     - [Award Reason](./konfigurasi/award-reason.md)
     - [Dicipline Type](./konfigurasi/dicipline-type.md)
