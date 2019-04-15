@@ -24,6 +24,8 @@
         - [Penjelasan](./konfigurasi/job-positions/penjelasan.md)
         - [Membuat Job Positions](./konfigurasi/job-positions/membuat.md)      
     - [Department Type](./konfigurasi/department-type.md)
+        - [Penjelasan](./konfigurasi/department-type/penjelasan.md)
+        - [Membuat Department](./konfigurasi/department-type/membuat.md) 
     - [Department](./konfigurasi/department.md)
         - [Penjelasan](./konfigurasi/department/penjelasan.md)
         - [Membuat Department](./konfigurasi/department/membuat.md)      
