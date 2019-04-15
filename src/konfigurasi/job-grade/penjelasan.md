@@ -4,7 +4,7 @@ Informasi pada Job Grade dibagi menjadi beberapa area, diantaranya:
 
 * [Header](#bagian-header)
 * [Tab Note](#tab-note)
-* [Tab Training Allowance](#tab-training-allowance)
+* [Training Allowance](#tab-training-allowance) jika module training *diinstall*
 
 ### <a name="bagian-header">HEADER</a>
 
@@ -36,7 +36,7 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 
 #### <a name="field-note">Note</a>
 
-Catatan atau Keterangan Job Grade
+Catatan atau Keterangan
 
 ### <a name="tab-training-allowance">TAB TRAINING ALLOWANCE</a>
 
