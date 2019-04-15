@@ -9,6 +9,8 @@
         - [Membuat Job Grade Category](./konfigurasi/job-grade-category/membuat.md)
           - [Membuat Training Allowance](./konfigurasi/job-grade-category/membuat-allowance.md)
       - [Job Grade](./konfigurasi/job-grade.md)
+        - [Penjelasan](./konfigurasi/job-grade/penjelasan.md)
+        - [Membuat Job Grade Category](./konfigurasi/job-grade/membuat.md)
       - [Job Family Grade](./konfigurasi/job-family-grade.md)
       - [Job Family Level](./konfigurasi/job-family-level.md)
       - [Job Family](./konfigurasi/job-family.md)
