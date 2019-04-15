@@ -12,6 +12,8 @@
         - [Penjelasan](./konfigurasi/job-grade/penjelasan.md)
         - [Membuat Job Grade Category](./konfigurasi/job-grade/membuat.md)
       - [Job Family Grade](./konfigurasi/job-family-grade.md)
+        - [Penjelasan](./konfigurasi/job-family-grade/penjelasan.md)
+        - [Membuat Job Family Grade](./konfigurasi/job-family-grade/membuat.md)
       - [Job Family Level](./konfigurasi/job-family-level.md)
       - [Job Family](./konfigurasi/job-family.md)
       - [Job Title](./konfigurasi/job-title.md)
