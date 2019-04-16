@@ -50,6 +50,8 @@
         - [Membuat Public Holidays](./konfigurasi/public-holidays/membuat.md)    
     - [Working Type](./konfigurasi/working-type.md)
     - [Contract Type](./konfigurasi/contract-type.md)
+        - [Penjelasan](./konfigurasi/contract-type/penjelasan.md)
+        - [Membuat Public Holidays](./konfigurasi/contract-type/membuat.md)    
     - [Attendance Machine](./konfigurasi/attendance-machine.md)
     - [Salary Rule](./konfigurasi/salary-rule.md)
     - [Salary Rule Configuration](./konfigurasi/salary-rule-configuration.md)
