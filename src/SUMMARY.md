@@ -59,6 +59,8 @@
     - [Salary Rule Configuration](./konfigurasi/salary-rule-configuration.md)
     - [Salary Rule](./konfigurasi/salary-rule.md)
     - [Input Type](./konfigurasi/input-type.md)
+        - [Penjelasan](./konfigurasi/input-type/penjelasan.md)
+        - [Membuat Input Type](./konfigurasi/input-type/membuat.md)  
     - [Payslip Type](./konfigurasi/payslip-type.md)
     - [Contribution Register](./konfigurasi/contribution-register.md)
 - [Transaksi](./transaksi.md)
