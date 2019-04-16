@@ -51,7 +51,7 @@
     - [Working Type](./konfigurasi/working-type.md)
     - [Contract Type](./konfigurasi/contract-type.md)
         - [Penjelasan](./konfigurasi/contract-type/penjelasan.md)
-        - [Membuat Public Holidays](./konfigurasi/contract-type/membuat.md)    
+        - [Membuat Contract Type](./konfigurasi/contract-type/membuat.md)    
     - [Attendance Machine](./konfigurasi/attendance-machine.md)
         - [Penjelasan](./konfigurasi/attendance-machine/penjelasan.md)
         - [Membuat Attendance Machine](./konfigurasi/attendance-machine/membuat.md)  
