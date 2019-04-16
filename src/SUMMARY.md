@@ -42,6 +42,8 @@
         - [Penjelasan](./konfigurasi/leave-types/penjelasan.md)
         - [Membuat Leave Types](./konfigurasi/leave-types/membuat.md)   
     - [Skill](./konfigurasi/skill.md)
+        - [Penjelasan](./konfigurasi/skill/penjelasan.md)
+        - [Membuat Skill](./konfigurasi/skill/membuat.md)      
     - [Expense Category](./konfigurasi/expense-category.md)
     - [Public Holiday](./konfigurasi/public-holiday.md)
     - [Working Type](./konfigurasi/working-type.md)
