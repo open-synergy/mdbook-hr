@@ -62,6 +62,8 @@
         - [Penjelasan](./konfigurasi/input-type/penjelasan.md)
         - [Membuat Input Type](./konfigurasi/input-type/membuat.md)  
     - [Payslip Type](./konfigurasi/payslip-type.md)
+        - [Penjelasan](./konfigurasi/payslip-type/penjelasan.md)
+        - [Membuat Payslip Type](./konfigurasi/payslip-type/membuat.md)  
     - [Contribution Register](./konfigurasi/contribution-register.md)
 - [Transaksi](./transaksi.md)
     - [Employee Contract](./transaksi/employee-contract.md)
