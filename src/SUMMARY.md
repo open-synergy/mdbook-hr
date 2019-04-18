@@ -114,6 +114,8 @@
     - [Timesheet](./transaksi/timesheet.md)
         - [Membuat Timesheet](./transaksi/timesheet/membuat.md)
         - [Membuat Timesheet Secara Massal](./transaksi/timesheet/membuat-masal.md)
+        - [Absen Masuk](./transaksi/timesheet/absen-masuk.md)
+        - [Absen Keluar](./transaksi/timesheet/absen-keluar.md)
         - [Merubah Durasi Timesheet](./transaksi/timesheet/merubah-durasi.md)
         - [Mengatur Ulang Attendance Schedule](./transaksi/timesheet/rearrange-schedule.md)
         - [Mengatur Ulang Attendance Schedule Beberapa Timesheet](./transaksi/timesheet/rearrange-schedule-masal.md)
