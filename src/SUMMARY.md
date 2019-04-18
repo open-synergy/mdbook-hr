@@ -70,6 +70,7 @@
 - [Transaksi](./transaksi.md)
     - [Employee Contract](./transaksi/employee-contract.md)
     - [Join Transition](./transaksi/join-transition.md)
+        - [Penjelasan Join Transition](./transaksi/join-transition/penjelasan.md)
         - [Membuat Join Transition](./transaksi/join-transition/membuat.md)
         - [Mengkonfirmasi Join Transition](./transaksi/join-transition/mengkonfirmasi.md)
         - [Menyetujui Join Transition](./transaksi/join-transition/menyetujui.md)
