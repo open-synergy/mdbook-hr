@@ -1,4 +1,15 @@
 # Transaksi
 
+- [Employee Contract](./transaksi/employee-contract.md)
+- [Join Transition](./transaksi/join-transition.md)
+- [Promotion Transition](./transaksi/promotion-transition.md)
+- [Demotion Transition](./transaksi/demotion-transition.md)
+- [Mutation Transition](./transaksi/mutation-transition.md)
+- [New Assignment Transition](./transaksi/new-assignment-transition.md)
+- [Termination Transition](./transaksi/termination-transition.md)
 - [Employee Award](./transaksi/employee-award.md)
 - [Employee Dicipline](./transaksi/employee-dicipline.md)
+- [Expense](./transaksi/expense.md)
+- [Payslip](./transaksi/payslip.md)
+- [Timesheet](./transaksi/timesheet.md)
+- [Overtime](./transaksi/overtime.md)

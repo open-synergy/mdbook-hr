@@ -1,0 +1,1 @@
+# Menghapus Promotion Transition
