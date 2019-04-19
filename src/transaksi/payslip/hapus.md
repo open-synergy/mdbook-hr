@@ -16,7 +16,7 @@
 
 4. Klik tombol **Delete** pada drop-down yang muncul dari tombol **More**.
 
-![](../../img/payslip/tombol-hapus.png)
+![](../../img/payslip/tombol-delete-form.png)
 
 5. Klik tombol **Ok** pada konfirmasi penghapusan yang muncul
 

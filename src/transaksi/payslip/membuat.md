@@ -9,7 +9,7 @@
 1. Buka menu **Human Resources -> Payroll -> Employee Payslip**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Klik tombol **Create** pada bagian atas-kiri form.
 
-![](../../img/join-transition/tombol-create.png)
+![](../../img/payslip/tombol-create.png)
 
 3. Pilih **Employee**. Harus diisi.
 4. Pilih **Period Date Start**. Harus diisi.
@@ -20,18 +20,18 @@
 9. Pilih **Salary Journal**. Harus diisi.
 10. Klik tombol **Import Timesheet Activity** pada bagian atas-kiri form.
 
-![](../../img/join-transition/tombol-import-timesheet.png)
+![](../../img/payslip/tombol-import-timesheet.png)
 
 11. Klik tombol **Compute Sheet** pada bagian atas-kiri form.
 
-![](../../img/join-transition/tombol-compute.png)
+![](../../img/payslip/tombol-compute.png)
 
 12. Klik tombol **Save** pada bagian atas-kiri form.
 
-![](../../img/join-transition/tombol-simpan.png)
+![](../../img/payslip/tombol-simpan.png)
 
 ## C. OUTPUT
 
 * Data paylip akan terbuat dengan status **Draft**.
 
-![](../../img/join-transition/statuss-draft.png)
+![](../../img/payslip/status-draft.png)

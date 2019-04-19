@@ -12,10 +12,12 @@
 
 1. Buka menu **Human Resources -> Payroll -> Employee Payslip**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data payslip yang akan direstart. Abaikan jika data sudah dibuka.
-3. Klik tombol **Confirm** pada bagian atas-kiri form.
+3. Klik tombol **Set to Draft** pada bagian atas-kiri form.
 
 ![](../../img/payslip/tombol-restart.png)
 
 ## C. OUTPUT
 
 * Data payslip akan berubah menjadi **Draft**.
+
+![](../../img/payslip/status-draft.png)
