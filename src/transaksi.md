@@ -13,3 +13,4 @@
 - [Payslip](./transaksi/payslip.md)
 - [Timesheet](./transaksi/timesheet.md)
 - [Overtime](./transaksi/overtime.md)
+- [Leave](./transaksi/leave.md)
