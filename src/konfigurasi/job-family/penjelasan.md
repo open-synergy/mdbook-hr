@@ -19,6 +19,10 @@ Nama job family
 
 Kode job family
 
+#### <a name="field-active">Active</a>
+
+Sebagai penanda apakah data adalah aktif/non-aktif
+
 #### <a name="field-min-grade">Min. Grade</a>
 
 Mendefinisikan minimal grade
@@ -27,11 +31,8 @@ Mendefinisikan minimal grade
 
 Mendefinisikan maximal grade
 
-#### <a name="field-active">Active</a>
 
-Sebagai penanda apakah data adalah aktif/non-aktif
-
-### <a name="bagian-header">TAB JOB GRADES</a>
+### <a name="tab-job-grades">TAB JOB GRADES</a>
 
 ![](../../img/job-family/tab-job-grade.png)
 
