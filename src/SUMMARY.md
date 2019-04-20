@@ -216,6 +216,7 @@
         - [Mengkonfirmasi Leave](./transaksi/leave/mengkonfirmasi.md)
         - [Menyetujui Leave](./transaksi/leave/menyetujui.md)
         - [Menolak Leave](./transaksi/leave/menolak.md)
+        - [Merestart Leave](./transaksi/leave/merestart.md)
     - [Leave Allocation](./transaksi/leave-allocation.md)
         - [Penjelasan Leave Allocation](./transaksi/leave-allocation/penjelasan.md)
         - [Membuat Leave Allocation](./transaksi/leave-allocation/membuat.md)

@@ -7,3 +7,4 @@
 - [Mengkonfirmasi Leave](./leave/mengkonfirmasi.md)
 - [Menyetujui Leave](./leave/menyetujui.md)
 - [Menolak Leave](./leave/menolak.md)
+- [Merestart Leave](./leave/merestart.md)
