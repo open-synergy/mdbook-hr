@@ -3,8 +3,8 @@
 Informasi pada Job Family Level dibagi menjadi beberapa area, diantaranya:
 
 * [Header](#bagian-header)
+* [Tab Job Grades](#tab-job-grades)
 * [Tab Note](#tab-note)
-* [Training Allowance](#tab-training-allowance) jika module training *diinstall*
 
 ### <a name="bagian-header">HEADER</a>
 
@@ -34,22 +34,16 @@ Mendefinisikan maximal grade
 
 Sebagai penanda apakah data adalah aktif/non-aktif
 
-### <a name="tab-note">TAB NOTE</a>
+### <a name="tab-job-grades">TAB JOB GRADES</a>
+
+![](../../img/job-family-level/tab-job-grade.png)
+
+#### <a name="field-tab-job-grades">Job Grade</a>
+
+Isian job grade berdasarkan input min dan max grades (otomatis)
 
 ![](../../img/job-family-level/tab-note.png)
 
 #### <a name="field-note">Note</a>
 
 Catatan atau Keterangan
-
-### <a name="tab-training-allowance">TAB TRAINING ALLOWANCE</a>
-
-![](../../img/job-family-level/tab-training-allowance.png)
-
-#### <a name="field-participant-type">Participant Type</a>
-
-Tipe dari participant/peserta pelatihan
-
-#### <a name="field-pricelist">Pricelist</a>
-
-Pricelist yang dipakai untuk allowance
