@@ -12,7 +12,7 @@
 
 ![](../../img/join-transition/tombol-add-timesheet-computation.png)
 
-2. Pilih **Computation Item**. Harus diisi.
+2. Pilih **[Computation Item](./penjelasan.md#field-transisi-computation-item)**. Harus diisi.
 3. Ulangi [langkah ke-1](#l1) untuk setiap timesheet computation yang akan ditambahkan.
 4. Lanjutkan [langkah ke-21 instruksi Membuat Join Transition](./membuat.md#l21) atau [langkah ke-22 instruksi Memodifikasi Join Transition](./modifikasi.md#l22).
 
