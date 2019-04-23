@@ -12,22 +12,22 @@
 
 ![](../../img/employee-contract/tombol-edit.png)
 
-4. Pilih **Employee**. Harus diisi.
-5. Pilih **Company**. Harus diisi.
-6. Pilih **Department**. Tidak harus diisi.
-7. Pilih **Job Title**. Tidak harus diisi.
-8. Pilih **Job Grade**. Tidak harus diisi.
-9. Pilih **Contract Type**. Harus diisi.
+4. Pilih **[Employee](./penjelasan.md#field-employee)**. Harus diisi.
+5. Pilih **[Company](./penjelasan.md#field-company)**. Harus diisi.
+6. Pilih **[Department](./penjelasan.md#field-department)**. Tidak harus diisi.
+7. Pilih **[Job Title](./penjelasan.md#field-job-title)**. Tidak harus diisi.
+8. Pilih **[Job Grade](./penjelasan.md#field-job-grade)**. Tidak harus diisi.
+9. Pilih **[Contract Type](./penjelasan.md#field-contract-type)**. Harus diisi.
 10. Buka tab **Information**.
-11. Isi **Wage**. Tidak harus diisi.
-12. Pilih **Salary Structure**. Tidak harus diisi.
-13. Isi **Contract Start Duration**. Tidak harus diisi.
-14. Isi **Contract End Duration**. Tidak harus diisi.
-15. Pilih **Working Schedule**. Tidak harus diisi.
-16. Pilih **Scheduled Pay**. Tidak harus diisi.
-17. Pilih **Analytic Account**. Tidak harus diisi.
-18. Pilih **Salary Journal**. Tidak harus diisi.
-19. Isi **Notes**.
+11. Isi **[Wage](./penjelasan.md#field-wage)**. Tidak harus diisi.
+12. Pilih **[Salary Structure](./penjelasan.md#field-salary-structure)**. Tidak harus diisi.
+13. Isi **[Contract Start Duration](./penjelasan.md#field-duration)**. Tidak harus diisi.
+14. Isi **[Contract End Duration](./penjelasan.md#field-duration)**. Tidak harus diisi.
+15. Pilih **[Working Schedule](./penjelasan.md#field-working-schedule)**. Tidak harus diisi.
+16. Pilih **[Schedule Pay](./penjelasan.md#field-schedule-pay)**. Tidak harus diisi.
+17. Pilih **[Analytic Account](./penjelasan.md#field-analytic-account)**. Tidak harus diisi.
+18. Pilih **[Salary Journal](./penjelasan.md#field-salary-journal)**. Tidak harus diisi.
+19. Isi **[Notes](./penjelasan.md#field-notes)**.
 20. Buka tab **Timesheet Computation**.
 21. <a name="l21">[Tambahkan](./menambah-timesheet-computation.md)/[Modifikasi](./modifikasi-timesheet-computation.md)/[Hapus](./menghapus-timesheet-computation.md)</a> **Timesheet Computation**.
 22. Buka tab **Payslip Inputs**.
