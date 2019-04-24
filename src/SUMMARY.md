@@ -39,6 +39,8 @@
         - [Penjelasan](./konfigurasi/award-reason/penjelasan.md)
         - [Membuat Award Reason](./konfigurasi/award-reason/membuat.md)  
     - [Dicipline Type](./konfigurasi/dicipline-type.md)
+        - [Penjelasan](./konfigurasi/dicipline-type/penjelasan.md)
+        - [Membuat Dicipline Type](./konfigurasi/dicipline-type/membuat.md)     
     - [Dicipline Reason](./konfigurasi/dicipline-reason.md)
         - [Penjelasan](./konfigurasi/dicipline-reason/penjelasan.md)
         - [Membuat Dicipline Reason](./konfigurasi/dicipline-reason/membuat.md)
