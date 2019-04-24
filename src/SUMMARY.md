@@ -65,6 +65,8 @@
         - [Penjelasan](./konfigurasi/attendance-machine/penjelasan.md)
         - [Membuat Attendance Machine](./konfigurasi/attendance-machine/membuat.md)  
     - [Salary Rule](./konfigurasi/salary-rule.md)
+        - [Penjelasan](./konfigurasi/salary-rule/penjelasan.md)
+        - [Membuat Salary Rule](./konfigurasi/salary-rule/membuat.md)      
     - [Salary Rule Configuration](./konfigurasi/salary-rule-configuration.md)
     - [Salary Rule](./konfigurasi/salary-rule.md)
     - [Input Type](./konfigurasi/input-type.md)
