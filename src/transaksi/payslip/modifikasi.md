@@ -14,13 +14,13 @@
 
 ![](../../img/payslip/tombol-edit.png)
 
-4. Pilih dan sesuaikan **Employee** jika dibutuhkan. Harus diisi.
-5. Pilih dan sesuaikan **Period Date Start** jika dibutuhkan. Harus diisi.
-6. Pilih dan sesuaikan **Period Date End** jika dibutuhkan. Harus diisi.
-7. Pilih dan sesuaikan **Payslip Type** jika dibutuhkan. Harus diisi.
+4. Pilih dan sesuaikan **[Employee](./penjelasan.md#field-employee)** jika dibutuhkan. Harus diisi.
+5. Pilih dan sesuaikan **[Period Date Start](./penjelasan.md#field-period)** jika dibutuhkan. Harus diisi.
+6. Pilih dan sesuaikan **[Period Date End](./penjelasan.md#field-period)** jika dibutuhkan. Harus diisi.
+7. Pilih dan sesuaikan **[Payslip Type](./penjelasan.md#field-payslip-type)** jika dibutuhkan. Harus diisi.
 8. Buka tab **Accounting Information**.
-9. Isi dan sesuaikan **Force Move Date** jika dibutuhkan. Harus diisi.
-10. Pilih dan sesuaikan **Salary Journal** jika dibutuhkan. Harus diisi.
+9. Isi dan sesuaikan **[Force Move Date](./penjelasan.md#field-accounting-info-force-move-date)** jika dibutuhkan. Harus diisi.
+10. Pilih dan sesuaikan **[Salary Journal](./penjelasan.md#field-accounting-info-salary-journal)** jika dibutuhkan. Harus diisi.
 11. Klik tombol dan sesuaikan **Import Timesheet Activity** pada bagian atas-kiri form.
 
 ![](../../img/payslip/tombol-import-timesheet.png)
