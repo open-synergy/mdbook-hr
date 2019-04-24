@@ -13,188 +13,192 @@ Informasi pada Join Transition dibagi menjadi beberapa area, diantaranya:
 
 #### <a name="field-document"># Document</a>
 
-Nomor dokumen join trasisi
+Nomor dokumen.
 
 #### <a name="field-id">ID</a>
 
-Nomor ID join transisi
+ID database.
 
 #### <a name="field-employee">Employee</a>
 
-Mendefinisikan karyawan
+Karyawan yang mengalami transisi.
 
 #### <a name="field-company">Company</a>
 
-Mendefinisikan perusahaan tempat karyawan bekerja
+Perusahaan pemilik dokumen transisi.
 
 #### <a name="field-previous-contract">Need Previous Contract</a>
 
-Jika dicentang, maka proses join transisi membutuhkan kontrak sebelumnya
+Diisi otomatis oleh Odoo. Jika aktif maka karyawan yang mengalami transisi harus memiliki [kontrak](../employee-contract.md).
 
 #### <a name="field-effective-date">Effective Date</a>
 
-Mendefinisikan tanggal efektif join transisi
+Tanggal transisi akan berlaku.
 
 #### <a name="field-previous-contract">Previous Contract</a>
 
-Mendefinisikan kontrak sebelumnya
+Diisi otomatiss oleh Odoo. Nomor kontrak karyawan sebelum transisi ini berlaku.
 
 #### <a name="field-reason">Reason</a>
 
-Mendefinisikan alasan join transisi
+Alasan transisi.
 
 #### <a name="field-create-new-contract">Create New Contract</a>
 
-Jika dicentang, maka akan dibuatkan kontrak baru
+Diisi otomatis oleh Odoo. Apabila aktif, Odoo akan membuat kontrak karyawan baru setelah transisi valid.
 
 #### <a name="field-archieve">Archieve</a>
 
-#TODO
+Aktifkan apabila transisi yang diinput merupakan histori/arsip.
 
 #### <a name="field-new-contract">New Contract</a>
 
-Mendefinisikan kontrak baru yang baru dibuat
+Kontrak karyawan yang secara otomatis dibuat oleh Odoo setelah transisi valid.
 
 #### <a name="field-contract-type">Contract Type</a>
 
-Mendefinisikan tipe kontrak
+Tipe kontrak (Contoh: PKWT, PKWTT).
 
 #### <a name="field-contract-duration">Contract Duration</a>
 
-Mendefinisikan tanggal mulai dan berakhirnya kontrak
+Mendefinisikan tanggal mulai dan berakhirnya kontrak.
 
-### <a name="bagian-header">TAB CAREER TRANSITION DETAIL</a>
+### <a name="tab-career">TAB CAREER TRANSITION DETAIL</a>
 
 ![](../../img/join-transition/transition-detail-1.png)
 
 #### <a name="field-transisi-company">Company</a>
 
-Mendefinisikan transisi perusahaan tempat karyawan bekerja
+Perusahaan di mana karyawan bekerja setelah transisi valid.
 
 #### <a name="field-transisi-department">Department</a>
 
-Mendefinisikan transisi department tempat karyawan bekerja
+Unit kerja di mana karyawan bekerja setelah transisi valid.
 
 #### <a name="field-transisi-job">Job</a>
 
-Mendefinisikan transisi pekerjaan
+Jabatan karyawan setelah transisi valid.
 
 #### <a name="field-transisi-job-grade">Job Grade</a>
 
-Mendefinisikan transisi tingkat pekerjaan
+Job grade karyawan setelah transisi valid.
 
 #### <a name="field-transisi-working-schedule">Working Schedule</a>
 
-Mendefinisikan transisi jadwal kerja
+Jadwal kerja karyawan setelah transisi valid.
 
 #### <a name="field-transisi-salary-structure">Salary Structure</a>
 
-Mendefinisikan transisi *Salary Structure*
+Struktur gaji karyawan setelah transisi valid.
 
-#### <a name="field-note">Note</a>
+#### <a name="tabel-input-types">TABEL INPUT TYPES</a>
 
-Catatan tambahan terkait join transisi
+Variabel-variabel penggajian yang dimiliki karyawan setelah transisi valid.
 
 ![](../../img/join-transition/transition-detail-2.png)
 
 #### <a name="field-transisi-input-type">Input Type</a>
 
-#TODO
+Variabel penggajian.
 
 #### <a name="field-transisi-input-type-amount">Amount</a>
 
-Jumlah input type
-
-![](../../img/join-transition/transition-detail-3.png)
+Besaran variabel penggajian.
 
 #### <a name="field-transisi-analytic-account">Analytic Account</a>
 
-Mendefinisikan akun analitik yang digunakan
+Cost center karyawan setelah transisi valid.
+
+#### <a name="tabel-timesheet-computation">TABEL TIMESHEET COMPUTATION</a>
+
+Variabel-variabel yang diperhitungkan dari timesheet karyawan.
+
+![](../../img/join-transition/transition-detail-3.png)
 
 #### <a name="field-transisi-computation-item">Computation Item</a>
 
-Mendefinisikan komputasi timesheet yang akan digunakan
+Variabel perhitungan timesheet.
 
-### <a name="bagian-header">TAB NOTE</a>
+### <a name="tab-note">TAB NOTE</a>
 
 ![](../../img/join-transition/note.png)
 
 #### <a name="field-note">Note</a>
 
-Catatan tambahan terkait join transisi
+Catatan tambahan.
 
-### <a name="bagian-header">TAB POLICY</a>
+### <a name="tab-policy">TAB POLICY</a>
 
 ![](../../img/join-transition/policy.png)
 
 #### <a name="field-change-company">Change Company?</a>
 
-Jika dicentang, maka isian *Company* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Company**](#field-transisi-company) dapat diganti
 
 #### <a name="field-change-department">Change Department</a>
 
-Jika dicentang, maka isian *Department* dapat diganti
+Disii otomatis oleh Odoo. Jika aktif, maka isian [**Department**](#field-transisi-department) dapat diubah.
 
 #### <a name="field-change-job-title">Change Job Title</a>
 
-Jika dicentang, maka isian *Job Title* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Job Title**](#field-transisi-job) dapat diubah.
 
 #### <a name="field-change-working-schedule">Change Working Schedule</a>
 
-Jika dicentang, maka isian *Working Schedule* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Working Schedule**](field-transisi-working-schedule) dapat diubaah.
 
 #### <a name="field-change-job-grade">Change Job Grade?</a>
 
-Jika dicentang, maka isian *Job Grade* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Job Grade**](#field-transisi-job-grade) dapat diubah.
 
 #### <a name="field-change-timesheet-computation">Change Timesheet Computation?</a>
 
-Jika dicentang, maka isian *Timesheet Computation* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka tabel [**Timesheet Computation**](#tabel-timesheet-computation) dapat ditambah/dimodifikasi/dihapus.
 
 #### <a name="field-change-salary-structure">Change Salary Structure?</a>
 
-Jika dicentang, maka isian *Salary Structure* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Salary Structure**](#field-transisi-salary-structure) dapat diubah.
 
 #### <a name="field-change-analytic-account">Change Analytic Account?</a>
 
-Jika dicentang, maka isian *Analytic Account* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka isian [**Analytic Account**](#field-transisi-analytic-account) dapat diubah.
 
 #### <a name="field-change-payslip-input">Change Payslip Input?</a>
 
-Jika dicentang, maka isian *Payslip Input* dapat diganti
+Diisi otomatis oleh Odoo. Jika aktif, maka tabel [**Payslip Inputs**](#tabel-input-types) dapat ditambah/dimodifikasi/dihapus.
 
 #### <a name="field-change-can-confirm">Can Confirm</a>
 
-Jika dicentang, maka user dapat melakukan proses konfirmasi
+Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data transisi dapat melakukan [mengkonfirmasi transisi](./mengkonfirmasi.md).
 
 #### <a name="field-change-can-open">Can Open</a>
 
-Jika dicentang, maka user dapat melakukan proses *Open*
+Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data transisi dapat memulai proses transisi.
 
 #### <a name="field-change-can-validate">Can Validate</a>
 
-Jika dicentang, maka user dapat melakukan proses validasi
+Disii otomatis oleh Odoo. Jika aktif, maka user yang membuka data dapat [memvalidasi transisi](./memvalidasi.md).
 
 #### <a name="field-change-can-cancel">Can Cancel</a>
 
-Jika dicentang, maka user dapat melakukan proses pembatalan
+Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data dapat [membatalkan transisi](./membatalkan.md).
 
 #### <a name="field-change-can-restart">Can Restart</a>
 
-Jika dicentang, maka user dapat melakukan proses *Restart*
+Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data dapat [merestart transisi](./merestart.md).
 
-### <a name="bagian-header">TAB LOG</a>
+### <a name="tab-log">TAB LOG</a>
 
 ![](../../img/join-transition/log.png)
 
 #### <a name="field-log-confirmation">Confirmation</a>
 
-Menginformasikan tanggal konfirmasi terkait join transisi
+Diisi otomatis oleh Odoo. Tanggal, waktu dan user yang [mengkonfirmasi transisi](./mengkonfirmasi.md).
 
 #### <a name="field-log-validation">Validation</a>
 
-Menginformasikan tanggal validasi terkait join transisi
+Diisi otomatis oleh Odoo. Tanggal, waktu, dan user yang [memvalidasi transisi](./memvalidasi.md).
 
 #### <a name="field-log-cancellation">Cancellation</a>
 
-Menginformasikan tanggal pembatalan terkait join transisi
+Diisi otomatis oleh Odoo. Tanggal, waktu, dan user yang [membatalkan transisi](./membatalkan.md).

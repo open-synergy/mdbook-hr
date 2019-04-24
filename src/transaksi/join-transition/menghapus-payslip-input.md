@@ -8,7 +8,7 @@
 
 ## B. INSTRUKSI KERJA
 
-1. <a name="l1">Klik</a> icon tempat sampah pada bagian kanan data payslip input yang akan dihapus.
+1. <a name="l1">Klik</a> icon tempat sampah pada bagian kanan data [payslip input](./penjelasan.md#tabel-input-types) yang akan dihapus.
 
 ![](../../img/join-transition/tombol-hapus-payslip-input.png)
 

@@ -8,7 +8,7 @@
 
 ## B. INSTRUKSI KERJA
 
-1. <a name="l1">Klik</a> tombol **Add an Item** pada tabel **Payslip Input**.
+1. <a name="l1">Klik</a> tombol **Add an Item** pada tabel [**Payslip Input**](./penjelasan.md#tabel-input-types).
 
 ![](../../img/join-transition/tombol-add-payslip-input.png)
 

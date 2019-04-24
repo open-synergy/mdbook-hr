@@ -8,7 +8,7 @@
 
 ## B. INSTRUKSI KERJA
 
-1. <a name="l1">Klik</a> icon tempat sampah pada bagian kanan data timesheet computation yang akan dihapus.
+1. <a name="l1">Klik</a> icon tempat sampah pada bagian kanan data [timesheet computation](./penjelasan.md#tabel-timesheet-computation) yang akan dihapus.
 
 ![](../../img/join-transition/tombol-hapus-timesheet-computation.png)
 

@@ -8,7 +8,7 @@
 
 ## B. INSTRUKSI KERJA
 
-1. <a name="l1">Klik</a> tombol **Add an Item** pada tabel **Timesheet Computation**.
+1. <a name="l1">Klik</a> tombol **Add an Item** pada tabel [**Timesheet Computation**](./penjelasan.md#tabel-timesheet-computation).
 
 ![](../../img/join-transition/tombol-add-timesheet-computation.png)
 
