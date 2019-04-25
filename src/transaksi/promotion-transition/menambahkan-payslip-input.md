@@ -10,7 +10,7 @@
 
 1. <a name="l1">Klik</a> tombol **Add an Item** pada tabel [**Payslip Input**](./penjelasan.md#tabel-input-types).
 
-![](../../img/join-transition/tombol-add-payslip-input.png)
+![](../../img/promotion-transition/tombol-add-payslip-input.png)
 
 2. Pilih **[Input Type](./penjelasan.md#field-transisi-input-type)**. Harus diisi.
 3. Isi **[Amount](./penjelasan.md#field-transisi-input-type-amount)**. Harus diisi.
