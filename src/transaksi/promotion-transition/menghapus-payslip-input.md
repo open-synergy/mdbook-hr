@@ -13,7 +13,7 @@
 ![](../../img/promotion-transition/tombol-hapus-payslip-input.png)
 
 2. Ulangi [langkah ke-1](#l1) untuk setiap payslip input yang akan dihapus.
-3. Lanjutkan [langkah ke-17 instruksi Membuat Promotion Transition](./membuat.md#l17) atau [langkah ke-18 instruksi Memodifikasi Join Transition](./modifikasi.md#l18).
+3. Lanjutkan [langkah ke-17 instruksi Membuat Promotion Transition](./membuat.md#l17) atau [langkah ke-18 instruksi Memodifikasi Demotion Transition](./modifikasi.md#l18).
 
 ## C. OUTPUT
 
