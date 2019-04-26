@@ -240,6 +240,7 @@
         - [Merubah Durasi Timesheet](./transaksi/timesheet/merubah-durasi.md)
         - [Mengatur Ulang Attendance Schedule](./transaksi/timesheet/rearrange-schedule.md)
         - [Mengatur Ulang Attendance Schedule Beberapa Timesheet](./transaksi/timesheet/rearrange-schedule-masal.md)
+        - [Menghapus Attendance Schedule](./transaksi/timesheet/hapus-schedule.md)
         - [Konfirmasi Timesheet](./transaksi/timesheet/konfirmasi.md)
         - [Menyetujui Timesheet](./transaksi/timesheet/menyetujui.md)
         - [Menolak Timesheet](./transaksi/timesheet/menolak.md)
