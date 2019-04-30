@@ -11,9 +11,9 @@
 
 ![](../../img/timesheet/tombol-create.png)
 
-3. Pilih **Employee**. Harus diisi.
-4. Isi **Start Date**. Harus diisi.
-5. Isi **End Date**. Harus diisi.
+3. Pilih **[Employee](./penjelasan.md#field-employee)**. Harus diisi.
+4. Isi **[Start Date](./penjelasan.md#field-timesheet-period)**. Harus diisi.
+5. Isi **[End Date](./penjelasan.md#field-timesheet-period)**. Harus diisi.
 6. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/timesheet/tombol-simpan.png)
