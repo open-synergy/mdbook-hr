@@ -1,3 +1,4 @@
+# Memodifikasi Training Allowance
 
 ## **Sub Menu ini digunakan jika module training *diinstall***
 
@@ -12,13 +13,10 @@ Training Allowance **diinput** jika ada pembayaran allowance kepada peserta trai
 ## B. INSTRUKSI KERJA
 
 1. Buka tab **Training Allowance**.
-2. <a name="l2">Klik</a> tombol **Add an Item** pada tabel **Training Allowance**.
-
-![](../../img/job-grade-category/tombol-add-allowance.png)
-
-3. Pilih **[Participant Type](./penjelasan.md#field-participant-type)**. Harus diisi.
-4. Pilih **[Pricelist](./penjelasan.md#field-pricelist)**. Harus diisi.
-5. Ulangi [langkah ke-2](#l2) untuk setiap allowance yang akan ditambahkan.
+2. <a name="l2">Pilih data </a>  **Training Allowance yang akan diedit**.
+3. Pilih dan sesuaikan **[Participant Type](./penjelasan.md#field-participant-type)**. Harus diisi.
+4. Pilih dan sesuaikan **[Pricelist](./penjelasan.md#field-pricelist)**. Harus diisi.
+5. Ulangi [langkah ke-2](#l2) untuk setiap allowance yang akan dimodifikasi/diedit.
 6. Lanjutkan [langkah ke-9 instruksi Membuat Job Grade Category](./membuat.md#l9) atau [langkah ke-10 instruksi Memodifikasi Job Grade Category](./modifikasi.md#l10).
 
 ## C. OUTPUT
