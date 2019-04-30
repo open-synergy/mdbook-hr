@@ -15,13 +15,13 @@
 
 ![](../../img/overtime/tombol-edit.png)
 
-4. Isi dan sesuaikan **# Overtime Request** . Harus diisi.
-5. Pilih dan sesuaikan **Company**. Harus diisi.
-6. Pilih dan sesuaikan **Employee**. Harus diisi.
-7. Isi dan sesuaikan **Date Start**. Harus diisi.
-8. Isi dan sesuaikan **Date End**. Harus diisi.
+3. Isi dan sesuaikan **[# Overtime Request](./penjelasan.md#field-overtime-request)** . Harus diisi.
+4. Pilih dan sesuaikan **[Company](./penjelasan.md#field-company)**. Harus diisi.
+5. Pilih dan sesuaikan **[Employee](./penjelasan.md#field-employee)**. Harus diisi.
+6. Isi dan sesuaikan **[Date Start](./penjelasan.md#field-date-start)**. Harus diisi.
+7. Isi dan sesuaikan **[Date End](./penjelasan.md#field-date-end)**. Harus diisi.
 9. Buka tab **Note**.
-10. Isi  dan sesuaikan **Note**. Tidak harus diisi.
+10. Isi  dan sesuaikan **[Note](./penjelasan.md#field-note)**. Tidak harus diisi.
 11. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/overtime/tombol-simpan.png)
