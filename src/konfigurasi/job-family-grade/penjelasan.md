@@ -1,6 +1,6 @@
 # Penjelasan
 
-Informasi pada Job Family Grade dibagi menjadi beberapa area, diantaranya:
+Informasi pada Job Family Grade dibagi menjadi 3 (tiga) area, diantaranya:
 
 * [Header](#bagian-header)
 * [Tab Note](#tab-note)
