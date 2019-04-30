@@ -254,6 +254,7 @@
         - [Membatalkan Payslip](./transaksi/payslip/batal.md)
         - [Merestart Payslip](./transaksi/payslip/restart.md)
     - [Timesheet](./transaksi/timesheet.md)
+        - [Penjelasan Timesheet](./transaksi/timesheet/penjelasan.md)
         - [Membuat Timesheet](./transaksi/timesheet/membuat.md)
         - [Membuat Timesheet Secara Massal](./transaksi/timesheet/membuat-masal.md)
         - [Absen Masuk](./transaksi/timesheet/absen-masuk.md)
