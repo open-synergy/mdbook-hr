@@ -16,11 +16,11 @@
 
 ![](../../img/leave/tombol-edit.png)
 
-4. Isi dan sesuaikan **Description** jika dibutuhkan. Harus diisi.
-5. Pilih dan sesuaikan **Leave Type** jika dibutuhkan. Harus diisi.
-6. Isi dan sesuaikan **Start Date** jika dibutuhkan. Harus diisi.
-7. Isi dan sesuaikan **End Date** jika dibutuhkan. Harus diisi.
-8. Pilih dan sesuaikan **Employee** jika dibutuhkan. Harus diisi.
+4. Isi dan sesuaikan **[Description](./penjelasan.md#field-description)** jika dibutuhkan. Harus diisi.
+5. Pilih dan sesuaikan **[Leave Type](./penjelasan.md#field-leave-type)** jika dibutuhkan. Harus diisi.
+6. Isi dan sesuaikan **[Start Date](./penjelasan.md#field-start-date)** jika dibutuhkan. Harus diisi.
+7. Isi dan sesuaikan **[End Date](./penjelasan.md#field-end-date)** jika dibutuhkan. Harus diisi.
+8. Pilih dan sesuaikan **[Employee](./penjelasan.md#field-employee)** jika dibutuhkan. Harus diisi.
 9. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/leave/tombol-simpan.png)
