@@ -11,10 +11,11 @@
 
 ![](../../img/leave-allocation/tombol-create.png)
 
-3. Isi **Description**. Harus diisi.
-4. Pilih **Leave Type**. Harus diisi.
-5. Isi **Duration**. Harus diisi.
-6. Pilih **Employee**. Harus diisi.
+3. Isi **[Description](./penjelasan.md#field-description)**. Harus diisi.
+4. Pilih **[Leave Type](./penjelasan.md#field-leave-type)**. Harus diisi.
+5. Isi **[Start Date](./penjelasan.md#field-start-date)**. Harus diisi.
+6. Isi **[End Date](./penjelasan.md#field-end-date)**. Harus diisi.
+7. Pilih **[Employee](./penjelasan.md#field-employee)**. Harus diisi.
 7. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/leave-allocation/tombol-simpan.png)

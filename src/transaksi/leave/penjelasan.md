@@ -25,12 +25,12 @@ Menginformasikan batasan jumlah hari yang diperbolehkan untuk permintaan cuti
 
 #### <a name="field-mode">Mode</a>
 
-Mendefinisikan mode permintaan cuti. Isian ini dibagi atas 2 pilihan, yaitu:<br/>
-* **By Employee:** Cuti hanya dapat dilakukan untuk satu karyawan saja
-![](../../img/leave/by_employee.png)
-    * <a name="field-employee">**Employee:** Mendefinisikan karyawan yang akan mengambil cuti</a>
-    * **Department:** Mendefinisikan departmen tempat karyawan bekerja. Isian ini diisi otomatis oleh odoo berdasarkan **Employee**
+Mendefinisikan mode permintaan cuti.
 
-* **By Employee Tag:** Cuti dapat dilakukan untuk group karyawan berdasarkan tag
-![](../../img/leave/by_employee_tag.png)
-    * **Employee Tag:** Mendefinisikan tag karyawan yang akan mengambil cuti
+#### <a name="field-employee">Employee</a>
+
+Mendefinisikan karyawan yang akan mengambil cuti
+
+#### <a name="field-department">Department</a>
+
+Mendefinisikan departmen tempat karyawan bekerja. Isian ini diisi otomatis oleh odoo berdasarkan **Employee**
