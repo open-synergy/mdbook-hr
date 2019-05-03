@@ -1,5 +1,7 @@
 # Penjelasan
 
+**Job Family Level merupakan integrasi antara Job Family dan Job Family Grade**
+
 Informasi pada Job Family Level dibagi menjadi beberapa area, diantaranya:
 
 * [Header](#bagian-header)
@@ -12,7 +14,7 @@ Informasi pada Job Family Level dibagi menjadi beberapa area, diantaranya:
 
 #### <a name="field-name">Job Family Grade</a>
 
-Mendefinisikan job family grade
+Mendefinisikan job family grade. Nilai didapatkan dari data **[Job Family Grade](../job-family-grade/penjelasan.md#field-nama)**
 
 #### <a name="field-code">Code</a>
 
@@ -20,15 +22,16 @@ Kode job family level
 
 #### <a name="field-job-family-id">Job Family</a>
 
-Mendefinisikan job family
+Mendefinisikan job family. Nilai didapatkan dari data **[Job Family](../job-family/penjelasan.md#field-nama)**
+
 
 #### <a name="field-min-grade">Min. Grade</a>
 
-Mendefinisikan minimal grade
+Mendefinisikan minimal grade. Nilai didapatkan dari data **[Job Grade](../job-grade/penjelasan.md#field-nama)**
 
 #### <a name="field-max-grade">Max. Grade</a>
 
-Mendefinisikan maximal grade
+Mendefinisikan maximal grade. Nilai didapatkan dari data **[Job Grade](../job-grade/penjelasan.md#field-nama)**
 
 #### <a name="field-active">Active</a>
 
