@@ -1,4 +1,4 @@
-# Membuat Job Family
+# Menghapus Job Grade Category
 
 ## A. INPUT
 
@@ -6,7 +6,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Human Resource -> Configuration -> Job Family Modelling -> Job Family**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Human Resource -> Configuration -> Job Family Modelling -> Job Grade Category**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Double klik atau pilih data yang akan diedit. Abaikan jika data sudah dipilih.
 3. Klik tombol **More** pada bagian atas-tengah form.
 
@@ -16,10 +16,10 @@
 
 ![](../../img/job-grade-category/tombol-delete.png)
 
-5. Klik tombol **OK** pada konfirmasi penghapusan yang muncul
+5. Klik tombol **Ok** pada konfirmasi penghapusan yang muncul
 
 ![](../../img/job-grade-category/tombol-hapus-ok.png)
 
 ## C. OUTPUT
 
-* Data Job Family akan terhapus.
+* Data Job Grade Category akan terhapus.

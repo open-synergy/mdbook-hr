@@ -1,6 +1,6 @@
 # Penjelasan
 
-Informasi pada Job Family Grade dibagi menjadi beberapa area, diantaranya:
+Informasi pada Job Family dibagi menjadi beberapa area, diantaranya:
 
 * [Header](#bagian-header)
 * [Tab Job Grades](#tab-job-grades)
@@ -25,11 +25,11 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 
 #### <a name="field-min-grade">Min. Grade</a>
 
-Mendefinisikan minimal grade
+Mendefinisikan minimal grade. Nilai didapatkan dari data **[Job Grade](../job-grade/penjelasan.md#field-nama)**
 
 #### <a name="field-max-grade">Max. Grade</a>
 
-Mendefinisikan maximal grade
+Mendefinisikan maximal grade. Nilai didapatkan dari data **[Job Grade](../job-grade/penjelasan.md#field-nama)**
 
 
 ### <a name="tab-job-grades">TAB JOB GRADES</a>
