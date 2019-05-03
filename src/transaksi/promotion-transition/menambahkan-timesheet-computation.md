@@ -14,7 +14,7 @@
 
 2. Pilih **[Computation Item](./penjelasan.md#field-transisi-computation-item)**. Harus diisi.
 3. Ulangi [langkah ke-1](#l1) untuk setiap timesheet computation yang akan ditambahkan.
-4. Lanjutkan [langkah ke-19 instruksi Membuat Demotion Transition](./membuat.md#l19) atau [langkah ke-20 instruksi Memodifikasi Demotion Transition](./modifikasi.md#l20).
+4. Lanjutkan [langkah ke-19 instruksi Membuat Promotion Transition](./membuat.md#l19) atau [langkah ke-20 instruksi Memodifikasi Promotion Transition](./modifikasi.md#l20).
 
 ## C. OUTPUT
 
