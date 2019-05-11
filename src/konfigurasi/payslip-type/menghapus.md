@@ -1,0 +1,1 @@
+# Menghapus Payslip Type
