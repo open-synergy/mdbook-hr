@@ -20,7 +20,7 @@
 6. Pilih **Preferred Date**. Harus diisi.
 7. Lanjutkan ke langkah ke-9 jika **Preferred Date** diisi selain **Fixed Date**.
 8. Isi **Schedule Date**. Harus diisi.
-9. [Tambah](./menambah-move-line.md)/[Hapus](./menghapus-move-line.md) **Move Lines** yang akan dibuatkan payment ordernya. Ulangi langkah ini sampai tabel **Move Lines** sesuai dengan keinginan.
+9. <a name="l9">[Tambah](./menambah-move-line.md)/[Hapus](./menghapus-move-line.md)</a> **Move Lines** yang akan dibuatkan payment ordernya. Ulangi langkah ini sampai tabel **Move Lines** sesuai dengan keinginan.
 10. Klik tombol **Confirm** pada bagian bawah-kiri pop-up **Create Payment Order**.
 
 ![](../../img/payslip-batch/tombol-confirm-pop-up-create-payment-order.png)
