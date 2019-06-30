@@ -10,7 +10,7 @@ Nama tipe departemen
 
 #### <a name="field-description">Deskripsi</a>
 
-Deskripsi mengenai departemen
+Deskripsi mengenai tipe departemen
 
 #### <a name="field-active">Active</a>
 

@@ -1,12 +1,20 @@
 # Penjelasan
 
+Informasi pada *department* dibagi menjadi 4 (empat) bagian, yaitu:
+
+* [Header](#bagian-header)
+* [Training Allowance Pricelist](#field-pricelist) jika module training *diinstal*
+* [Allowed Expense Product Categories](#bagian-allowed-expense-product-categories)
+* [Allowed Expense Product](#bagian-allowed-expense-product)
+* [Allowed Expense Product](#bagian-all-allowed-expense-product)
+
 ### <a name="bagian-header">HEADER</a>
 
 ![](../../img/job-positions/header.png)
 
 #### <a name="field-name">Job Name</a>
 
-Nama job
+Nama job/posisi jabatan
 
 #### <a name="field-family-level-id">Job Family Level</a>
 
