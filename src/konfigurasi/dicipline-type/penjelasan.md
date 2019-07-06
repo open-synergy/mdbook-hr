@@ -28,7 +28,7 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 Mendefinisikan kode sequence
 > **Catatan:** Sequence yang dipilih nantinya akan mempengaruhi pemberian nomor pada data *Employee Diciplines* ketika dibuat
 
-### <a name="tab-fine">TAB FINE</a>
+### <a name="tab-fine">TAB FINE (DENDA)</a>
 
 ![](../../img/dicipline-type/tab-fine.png)
 
@@ -79,4 +79,3 @@ Mendefinisikan group yang diperbolehkan untuk melakukan *Restart* pada data *Emp
 #### <a name="field-note">Note</a>
 
 Catatan tambahan terkait tipe penghargaan
-

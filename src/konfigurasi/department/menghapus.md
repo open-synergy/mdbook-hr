@@ -7,7 +7,7 @@
 ## B. LANGKAH KERJA
 
 1. Buka menu **Human Resource -> Configuration -> Department**. Abaikan jika sudah berada pada menu yang dimaksud.
-2. Double klik atau pilih data yang akan diedit. Abaikan jika data sudah dipilih.
+2. Double klik atau pilih data yang akan dihapus. Abaikan jika data sudah dipilih.
 3. Klik tombol **More** pada bagian atas-tengah form.
 
 ![](../../img/general-button/tombol-more.png)

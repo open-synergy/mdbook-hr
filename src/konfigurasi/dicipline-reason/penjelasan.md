@@ -16,7 +16,7 @@ Tipe sanksi yang diperbolehkan untuk menggunakan alasan
 
 #### <a name="field-active">Active</a>
 
-#TODO
+Sebagai penanda apakah data adalah aktif/non-aktif
 
 #### Note
 

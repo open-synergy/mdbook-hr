@@ -1,6 +1,6 @@
-# Penjelasan
+# Penjelasan Job Positions
 
-Informasi pada *department* dibagi menjadi 4 (empat) bagian, yaitu:
+Informasi pada *Job Positions* dibagi menjadi 4 (empat) bagian, yaitu:
 
 * [Header](#bagian-header)
 * [Training Allowance Pricelist](#field-pricelist) jika module training *diinstal*

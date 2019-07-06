@@ -1,5 +1,10 @@
 # Penjelasan
 
+Informasi pada Award Type dibagi menjadi beberapa area, diantaranya:
+
+* [Header](#bagian-header)
+* [Tab Public Holidays](#bagian-details)
+
 ### <a name="bagian-header">HEADER</a>
 
 ![](../../img/public-holidays/header.png)
@@ -16,16 +21,16 @@ Mendefinisikan negara
 
 ![](../../img/public-holidays/details.png)
 
-Data *Public Holidays*(Libur Nasional) dapat diisi dengan 2 cara, yaitu:
+Data *Public Holidays* (Libur Nasional) dapat diisi dengan 2 cara, yaitu:
 
-- #### <a name="field-button-import">Import from ics</a>
+#### - <a name="field-button-import">Import from ics</a>
 
 ![](../../img/public-holidays/import-ics-form.png)
 
 Mengimport data libur nasional dari iCalender File.
 
-- #### <a name="field-button-import">Manual Input dengan **Add an Item**</a>
-    - **Date:** Mendefinisilkan tanggal libur
-    - **Name:** Nama/deskripsi libur
-    - **Related States:** Mendefinisikan propinsi yang memiliki hari libur terkait
-    - **Date May Changes:** Jika dicentang, maka tanggal bisa berubah sewaktu-waktu
+#### - <a name="field-button-manual">Manual Input dengan **Add an Item**</a>
+  - **Date:** Mendefinisilkan tanggal libur
+  - **Name:** Nama/deskripsi libur
+  - **Related States:** Mendefinisikan propinsi yang memiliki hari libur terkait
+  - **Date May Changes:** Jika dicentang, maka tanggal bisa berubah sewaktu-waktu
