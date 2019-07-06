@@ -42,10 +42,10 @@ Mendefiniskan warna yang akan digunakan pada reporting
 
 Sebagai penanda apakah data adalah aktif/non-aktif
 
-#### <a name="bagian-details-misc-field-color-name">Exclude Rest Days</a>
+#### <a name="bagian-details-misc-field-excl-rest-day">Exclude Rest Days</a>
 
 Jika dicentang, maka hari istirahat karyawan tidak akan dimasukan dalam perhitungan cuti
 
-#### <a name="bagian-details-misc-field-color-name">Exclude Public Holidays</a>
+#### <a name="bagian-details-misc-field-exclude-public-holiday">Exclude Public Holidays</a>
 
 Jika dicentang, maka hari libur nasional tidak akan dimasukan dalam perhitungan cuti

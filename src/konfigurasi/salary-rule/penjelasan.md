@@ -2,15 +2,6 @@
 
 Informasi pada Salary Rule dibagi menjadi beberapa area, diantaranya:
 
-* [Header](#bagian-header)
-* [Tab General](#tab-general)
-* [Tab Child Rules](#tab-child-rules)
-* [Tab Accounting](#tab-accounting)
-* [Tab Inputs](#tab-inputs)
-* [Tab Employee Benefits](#tab-employee-benefit)
-* [Tab Description](#tab-description)
-* [Tab Timesheet Account](#tab-timesheet-account)
-
 ### <a name="bagian-header">HEADER</a>
 
 ![](../../img/salary-rule/header.png)
