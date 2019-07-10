@@ -1,4 +1,4 @@
-# Menghapus Attendance Machine
+# Menghapus Stages Recruitment
 
 ## A. INPUT
 
@@ -6,7 +6,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Human Resource -> Configuration -> Attendance -> Attendance Machine**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Human Resource -> Configuration -> Recruitment -> Stages**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Double klik pada data yang akan dihapus. Abaikan jika data sudah dipilih.
 3. Klik tombol **More** pada bagian atas-tengah form.
 
@@ -22,4 +22,4 @@
 
 ## C. OUTPUT
 
-* Data **attendance machine**  akan terhapus
+* Data **stages** akan terhapus.

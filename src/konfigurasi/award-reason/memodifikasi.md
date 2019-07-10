@@ -11,7 +11,7 @@
 3. Klik tombol **Edit** pada bagian atas-kiri form.
 
 ![](../../img/award-reason/tombol-edit.png)
-6
+
 4. Isi dan sesuaikan **[Award Reason](./penjelasan.md#field-name)** jika diperlukan. Harus diisi.
 5. Isi dan sesuaikan **[Code](./penjelasan.md#field-code)** jika diperlukan. Tidak harus diisi
 6. Pilih dan sesuaikan **[Award Type](./penjelasan.md#field-award-type)** jika diperlukan. Tidak harus diisi
