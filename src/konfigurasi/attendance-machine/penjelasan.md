@@ -48,11 +48,27 @@ Kode sign out yang dipakai file CSV untuk merujuk pada status absen *Sign Out*
 
 #### <a name="field-delimiter">Delimiter</a>
 
-Dilimiter yang digunakan file CSV
+Delimiter yang digunakan file CSV
 
 #### <a name="field-first-row-header">The first row of the file contains the label of the column</a>
 
 Jika dicentang, maka file CSV memiliki header pada baris pertama
+d
+#### <a name="field-column">Column</a>
+
+Definisikan nomor kolom untuk file CSV
+
+#### <a name="field-fieldname">Field</a>
+
+Definisikan nama field untuk file CSV
+
+#### <a name="field-fieldtype">Field Type</a>
+
+Definisikan tipe field untuk file CSV
+
+#### <a name="field-formatdate">Format Date</a>
+
+Definisikan format tanggal untuk file CSV
 
 ### <a name="tab-employee-code">TAB EMPLOYEE CODES</a>
 

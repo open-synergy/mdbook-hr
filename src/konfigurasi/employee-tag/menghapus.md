@@ -1,4 +1,4 @@
-# Menghapus Attendance Machine
+# Menghapus Employee Tags
 
 ## A. INPUT
 
@@ -6,8 +6,8 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Human Resource -> Configuration -> Attendance -> Attendance Machine**. Abaikan jika sudah berada pada menu yang dimaksud.
-2. Double klik pada data yang akan dihapus. Abaikan jika data sudah dipilih.
+1. Buka menu **Human Resource -> Configuration -> Employee Tags**. Abaikan jika sudah berada pada menu yang dimaksud.
+2. Double klik atau pilih data yang akan dihapus. Abaikan jika data sudah dipilih.
 3. Klik tombol **More** pada bagian atas-tengah form.
 
 ![](../../img/general-button/tombol-more.png)
@@ -22,4 +22,4 @@
 
 ## C. OUTPUT
 
-* Data **attendance machine**  akan terhapus
+* Data **Employee Tags** akan terhapus.
