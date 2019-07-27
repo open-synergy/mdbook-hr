@@ -1,4 +1,10 @@
-# Penjelasan
+# Penjelasan Skill
+
+Informasi pada Menu Skill dibagi menjadi beberapa area, diantaranya:
+
+* [Header](#bagian-header)
+* [Tab Sub Skill](#tab-sub-skill)
+* [Tab Public Level](#tab-level)
 
 ### <a name="bagian-header">HEADER</a>
 
@@ -16,8 +22,28 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 
 Parent/induk dari skill
 
-### <a name="bagian-header">DETAILS</a>
+### <a name="tab-sub-skill">TAB SUB SKILL</a>
+
+*Pada prakteknya prosedur menambah/memodifikasi/menghapus data sub skill hampir tidak pernah dilakukan melalui tab ini*
 
 ![](../../img/skills/detail-skill.png)
 
-#TODO
+#### <a name="field-name-sub">Name</a>
+
+Nama sub skill/keahlian
+
+### <a name="tab-level">TAB LEVEL</a>
+
+![](../../img/skills/detail-level.png)
+
+#### <a name="field-level">Level</a>
+
+Nama level
+
+#### <a name="field-sequence">Sequence</a>
+
+Definisikan nomor urut/sequence
+
+#### <a name="field-description">Description</a>
+
+Definisikan keterangan/catatan mengenai level
