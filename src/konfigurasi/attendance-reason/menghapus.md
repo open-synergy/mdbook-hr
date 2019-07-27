@@ -1,4 +1,4 @@
-# Menghapus Skill
+# Menghapus Attendance Reason
 
 ## A. INPUT
 
@@ -6,7 +6,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Human Resource -> Configuration -> Skill Management - Skills**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Human Resource -> Configuration -> Attendance -> Attendance Reason**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Double klik pada data yang akan dihapus. Abaikan jika data sudah dipilih.
 3. Klik tombol **More** pada bagian atas-tengah form.
 
@@ -22,4 +22,4 @@
 
 ## C. OUTPUT
 
-* Data **Skills** akan terhapus.
+* Data Attendance Reason akan terhapus
