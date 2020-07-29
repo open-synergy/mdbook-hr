@@ -1,5 +1,7 @@
 # Department
 
+Menu ini digunakan untuk mengkonfigurasi *departemen* yang digunakan pada transaksi Employee
+
 - [Penjelasan](./department/penjelasan.md)
 - [Membuat Department](./department/membuat.md)
 - [Memodifikasi Department](./department/memodifikasi.md)
@@ -10,3 +12,8 @@
 - [Membuat Allowed Expense Product](./department/membuat-allowed-product.md)
 - [Memodifisikasi Allowed Expense Product](./department/memodifikasi-allowed-product.md)
 - [Menghapus Allowed Expense Product](./department/menghapus-allowed-product.md)
+
+## Chapter
+- [Terminologi](../terminologi.md)
+- [Konfigurasi](../konfigurasi.md)
+- [Transaksi](../transaksi.md)
