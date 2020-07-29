@@ -39,19 +39,19 @@ Nama Posisi pekerjaan. Akan terisi otomatis sesuai isian pada data master karyaw
 
 #### <a name="field-date-expense">Date Expense</a>
 
-Tanggal reimbursement.
+Tanggal terjadinya pengeluaran.
 
 #### <a name="field-date-due">Date Due</a>
 
-Tanggal berakhir/**due** dari reimbursement.
+Tanggal estimasi dibayarnya reimbursement.
 
 #### <a name="field-type">Type</a>
 
-Jenis reimbursement. Pilihan merupakan isian dari tabel **type reimbursement**.
+Jenis reimbursement. Pilihan diambil dari master data **type reimbursement**.
 
 #### <a name="field-currency">Currency</a>
 
-Mata Uang. Pilihan merupakan isian dari tabel **currency**.
+Mata Uang. Pilihan diambil dari master data **currency**.
 
 ### <a name="tab-detail">Tab Reimbursement Detail</a>
 
@@ -59,59 +59,59 @@ Mata Uang. Pilihan merupakan isian dari tabel **currency**.
 
 #### <a name="field-product">Product</a>
 
-Nama Produk yang akan direimburse. Pilihan merupakan isian dari tabel **product** yang diperbolehkan pada jenis reimbursement.
+Nama produk yang akan direimburse. Pilihan sesuai dengan tabel **Allowed Product Categories** atau **Allowed Products** dari **Type** yang dipilih.
 
 #### <a name="field-note">Note</a>
 
-Definisikan catatan tentang produk yang lebih detail.
+Catatan mengenai item reimbursement.
 
 #### <a name="field-reference">Reference</a>
 
-Definisikan referensi.
+Nomor dokumen rujukan (contoh: nomor bon, nomor kwitansi, nomor invoice, dll) dari item yang akan direimburse.
 
 #### <a name="field-account">Account</a>
 
-Nama kode akun dari Produk yang akan direimburse. Secara default isian akan sesuai dengan isian *Account* dari tabel **Product**. Pilihan merupakan isian dari tabel **account**.
+Kode akun beban yang akan digunakan pada pembuatan penjurnalan akuntansi. Secara default isian akan sesuai dengan isian **Expense Account** dari data **Product** yang dipilih atau sesuai dengan isian **Expense Account** dari category **Product** yang dipilih. Pilihan diambil dari master data **Account**.
 
 #### <a name="field-analytic-account">Analytic Account</a>
 
-Nama akun analitik dari Produk yang akan direimburse. Pilihan merupakan isian dari tabel **analytic account**.
+Akun analitik (cost center) dari item yang akan direimburse. Pilihan diambil dari master data **analytic account**.
 
 #### <a name="field-unit-price">Unit Price</a>
 
-Definisikan harga produk yang akan direimburse.
+Harga satuan produk yang akan direimburse.
 
 #### <a name="field-approve-price">Aprroved Price Unit</a>
 
-Definisikan harga yang disetujui dari produk yang direimburse. Hanya diisi oleh user yang bisa menyetujui/**approve**. Secara default isian akan sama dengan Unit price.
+Harga yang disetujui dari produk yang direimburse. Tidak bisa diubah langsung. Isian dapat diubah dengan menjalankan instruksi kerja [Mengubah Nilai Reimbursement](./mengubah-nilai-reimbursement.md)
 
 #### <a name="field-qty">Qty</a>
 
-Definisikan jumlah/*quantity* produk yang akan direimburse.
+Jumlah produk yang akan direimburse.
 
 #### <a name="field-approve-qty">Aprroved Quantity</a>
 
-Definisikan jumlah yang disetujui dari produk yang direimburse. Hanya diisi oleh user yang bisa menyetujui/**approve**. Secara defaut isian akan sama dengan Qty.
+Jumlah produk yang disetujui untuk direimburse. Tidak bisa diubah langsung. Isian dapat diubah dengan menjalankan instruksi kerja [Mengubah Nilai Reimbursement](./mengubah-nilai-reimbursement.md)
 
 #### <a name="field-uom">UoM</a>
 
-Definisikan satuan/Unit of Measurement dari produk yang direimburse. Secara default isian akan sesuai dengan isian *UoM* dari tabel **Product**. Pilihan merupakan isian dari tabel **UoM**.
+Satuan/Unit of Measurement dari produk yang direimburse. Secara default isian akan sesuai dengan isian *UoM* dari data **Product** yang dipilih. Pilihan diambil dari master data **Unit of Measure**.
 
 #### <a name="field-sub-total">Sub Total</a>
 
-Subtotal merupakan perkalian antara qty dan harga.
+Perkalian antara **Aprroved Quantity** dan **Aprroved Price Unit**. Akan terhitung secara otomatis.
 
 #### <a name="field-total">Total</a>
 
-Total merupakan dari jumlah total reimbursement yang harus dibayarkan. Akan terhitung secara otomatis.
+Jumlah total reimbursement yang harus dibayarkan. Akan terhitung secara otomatis.
 
 #### <a name="field-total-payment">Total Payment</a>
 
-Total Payment merupakan total dari reimbursement yang sudah dibayarkan. Akan terhitung secara otomatis.
+Total dari reimbursement yang sudah dibayarkan kepada karyawan yang mengajukan. Akan terhitung secara otomatis.
 
 #### <a name="field-total-residu">Total Residual</a>
 
-Total Residual merupakan selisih total dari reimbursement dengan yang sudah dibayarkan. Akan terhitung secara otomatis.
+Total Residual merupakan selisih **Total** dan **Total Payment**. Akan terhitung secara otomatis.
 
 ### <a name="tab-accounting">Tab Accounting Info</a>
 
@@ -119,19 +119,19 @@ Total Residual merupakan selisih total dari reimbursement dengan yang sudah diba
 
 #### <a name="field-journal">Journal</a>
 
-Nama Jurnal dari reimbursement. Secara default isian akan sesuai dengan isian *Journal* dari tabel **Reimbursement Type**. Pilihan merupakan isian dari tabel **journal**.
+Buku Jurnal yang akan digunakan dalam pembuatan penjurnalan akuntansi. Secara default isian akan sesuai dengan isian **Journal** dari **Type** yang dipilih. Pilihan diambil dari master data **Journal**.
 
 #### <a name="field-payable-account">Reimbursement Payable Account</a>
 
-Nama Akun Payable dari reimbursement. Secara default isian akan sesuai dengan isian *Payable Account* dari tabel **Reimbursement Type**. Pilihan merupakan isian dari tabel **account**.
+Akun utang (payable) yang akan digunakan dalam pembuatan penjurnalan akuntansi. Secara default isian akan sesuai dengan isian **Payable Account** dari **Type** yang dipilih. Pilihan diambil dari master data **account**.
 
 #### <a name="field-move"># Move</a>
 
-Nomor move merupakan Nomor dokumen dari jurnal entry.
+Penjurnalan akuntansi yang dihasilkan. Akan terisi otomatis ketika reimbursement disetujui.
 
 #### <a name="field-move-line">Reimbursement Payable Move Line</a>
 
-Nomor transaksi payable move line merupakan Nomor dokumen dari jurnal item pada jurnal entry.
+Detail penjurnalan akuntansi untuk payable. Akan terisi otomatis ketika reimbursement disetujui.
 
 ### <a name="tab-reviews">Tab Reviews</a>
 
@@ -139,11 +139,11 @@ Nomor transaksi payable move line merupakan Nomor dokumen dari jurnal item pada 
 
 #### <a name="field-definition">Definition</a>
 
-Definisi dari proses multiple approval yang dibuat pada konfigurasi **multiple approval** untuk proses reimbursement. Secara default akan terisi otomatis sesuai dengan keadaan reimbursement.
+Konfigurasi multiple approval yang digunakan. Secara default akan terisi otomatis sesuai dengan keadaan reimbursement ketika reimbursement dikonfirmasi.
 
 #### <a name="field-review-validation">Review Partner Validation</a>
 
-Daftar User yang berhak melakukan validasi sesuai definisi yang ditetapkan. Terisi otomatis dari tabel **multiple approval**.
+Daftar User yang berhak melakukan validasi sesuai **Definition** yang ditetapkan. Akan terisi otomatis.
 
 ### <a name="tab-note">Tab Note</a>
 
