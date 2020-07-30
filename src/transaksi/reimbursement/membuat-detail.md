@@ -4,7 +4,7 @@
 
 ## A. INPUT
 
-* Data **Reimbursement** harus memiliki status **Draft**.
+*(Tidak ada instruksi khusus)*
 
 ## B. INSTRUKSI KERJA
 

@@ -37,3 +37,20 @@
 ![](../../img/reimbursement/status-terminate.png)
 
 * Data **[Terminate](./penjelasan.md#field-log-terminate)** pada log reimbursement akan berisi nama user dan tanggal saat pembatalan.
+
+## Chapter
+- [Transaksi](../../transaksi.md)
+- [Penjelasan Reimbursement](./penjelasan.md)
+- [Membuat Reimbursement](./membuat.md)
+- [Modifikasi Reimbursement](./modifikasi.md)
+- [Menghapus Reimbursement](./menghapus.md)
+- [Menambah Detail Reimbursement](./membuat-detail.md)
+- [Modifikasi Detail Reimbursement](./modifikasi-detail.md)
+- [Menghapus Detail Reimbursement](./menghapus-detail.md)
+- [Mengkonfirmasi Reimbursement](./mengkonfirmasi.md)
+- [Menyetujui Reimbursement](./menyetujui.md)
+- [Menolak Reimbursement](./menolak.md)
+- [Merestart Persetujuan Reimbursement](./merestart-persetujuan.md)
+- [Mengubah Nilai Reimbursement](./mengubah-nilai-reimbursement.md)
+- [Membatalkan Reimbursement](./membatalkan.md)
+- [Merestart Reimbursement](./merestart.md)
