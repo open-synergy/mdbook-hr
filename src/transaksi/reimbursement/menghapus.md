@@ -22,11 +22,21 @@
 
 ## C. OUTPUT
 
-* Data account akan terhapus.
+* Data Reimbursement akan terhapus.
 
 ## Chapter
-- [Konfigurasi](../../konfigurasi.md)
-- [Account](../account.md)
-- [Penjelasan Account](penjelasan.md)
-- [Membuat Account](membuat.md)
-- [Memodifikasi Account](memodifikasi.md)
+- [Transaksi](../../transaksi.md)
+- [Penjelasan Reimbursement](./penjelasan.md)
+- [Membuat Reimbursement](./membuat.md)
+- [Modifikasi Reimbursement](./modifikasi.md)
+- [Menambah Detail Reimbursement](./membuat-detail.md)
+- [Modifikasi Detail Reimbursement](./modifikasi-detail.md)
+- [Menghapus Detail Reimbursement](./menghapus-detail.md)
+- [Mengkonfirmasi Reimbursement](./mengkonfirmasi.md)
+- [Menyetujui Reimbursement](./menyetujui.md)
+- [Menolak Reimbursement](./menolak.md)
+- [Merestart Persetujuan Reimbursement](./merestart-persetujuan.md)
+- [Mengubah Nilai Reimbursement](./mengubah-nilai-reimbursement.md)
+- [Membatalkan Reimbursement](./membatalkan.md)
+- [Merestart Reimbursement](./merestart.md)
+- [Terminate Reimbursement](./terminate.md)
