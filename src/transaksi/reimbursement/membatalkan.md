@@ -2,11 +2,11 @@
 
 ## A. INPUT
 
-* Data *Reimbursement* yang akan dikonfirmasi harus memiliki status **Draft** atau **Waiting For Approval**.
+* Data *Reimbursement* yang akan dibatalkan harus memiliki status **Draft** atau **Waiting For Approval**.
 
 ![](../../img/reimbursement/status-waiting-for-approval.png)
 
-* User yang akan mengkonfirmasi harus memiliki akses untuk **[Membatalkan Document](./penjelasan.md#field-can-cancel)** reimbursement.
+* User yang akan membatalkan harus memiliki akses untuk **[Membatalkan Document](./penjelasan.md#field-can-cancel)** reimbursement.
 
 ## B. INSTRUKSI KERJA
 

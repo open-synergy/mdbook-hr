@@ -2,11 +2,11 @@
 
 ## A. INPUT
 
-* Data *Reimbursement* yang akan dikonfirmasi harus memiliki status **Cancel**.
+* Data *Reimbursement* yang akan direstart harus memiliki status **Cancel**.
 
 ![](../../img/reimbursement/status-cancel.png)
 
-* User yang akan mengkonfirmasi harus memiliki akses untuk **[Merestart Document](./penjelasan.md#field-can-restart)** reimbursement.
+* User yang akan merestart harus memiliki akses untuk **[Merestart Document](./penjelasan.md#field-can-restart)** reimbursement.
 
 ## B. INSTRUKSI KERJA
 

@@ -2,16 +2,16 @@
 
 ## A. INPUT
 
-* Data *Reimbursement* yang akan dikonfirmasi harus memiliki status **Waiting For Approval**.
+* Data *Reimbursement* yang akan ditolak harus memiliki status **Waiting For Approval**.
 
 ![](../../img/reimbursement/status-waiting-for-approval.png)
 
-* User yang akan mengkonfirmasi harus memiliki akses untuk **[Menyetujui Document](./penjelasan.md#tab-reviews)** reimbursement.
+* User yang akan menolak harus memiliki akses untuk **[Menyetujui Document](./penjelasan.md#tab-reviews)** reimbursement.
 
 ## B. INSTRUKSI KERJA
 
 1. Buka menu **Human Resources -> Reimbursement -> Reimbursement**. Abaikan jika sudah berada pada menu yang dimaksud.
-2. Buka data reimbursement yang akan dikonfirmasi. Abaikan jika data sudah dibuka.
+2. Buka data reimbursement yang akan ditolak. Abaikan jika data sudah dibuka.
 3. Klik tombol **Reject** pada bagian atas-kiri form.
 
 ![](../../img/reimbursement/tombol-reject.png)
