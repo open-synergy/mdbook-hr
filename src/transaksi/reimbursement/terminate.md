@@ -6,7 +6,7 @@
 
 ![](../../img/reimbursement/status-waiting-for-payment.png)
 
-* User yang akan mengkonfirmasi harus memiliki akses untuk **[Terminate Document](./penjelasan.md#field-can-terminate)** reimbursement.
+* User yang akan melakukan terminasi harus memiliki akses untuk **[Terminate Document](./penjelasan.md#field-can-terminate)** reimbursement.
 
 ## B. INSTRUKSI KERJA
 
