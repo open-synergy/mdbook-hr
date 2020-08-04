@@ -16,7 +16,7 @@
 
 ![](../../img/cash-advance/tombol-change-approved.png)
 
-4. Layar pengisian form perubahan harga dan Quantity
+4. Form Change Approved Price/Unit akan muncul
 
 ![](../../img/cash-advance/form-change-price.png)
 
@@ -28,7 +28,7 @@
 
 ## C. OUTPUT
 
-* Data perubahan akan tersimpan.
+* Nilai Approved Quantity dan Nilai Approved Price Unit akan berubah sesuai dengan perubahan yang dilakukan
 
 ## Chapter
 - [Transaksi](../../transaksi.md)

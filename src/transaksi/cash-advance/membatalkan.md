@@ -33,6 +33,8 @@
 
 * Data **[Cancel](./penjelasan.md#field-log-cancel)** pada log cash advance akan berisi nama user dan tanggal saat pembatalan.
 
+* Jika Cash Advance memiliki status Waiting for Realization maka penjurnalan akuntansi akan dihapus.
+
 ## Chapter
 - [Transaksi](../../transaksi.md)
 - [Penjelasan Cash Advance](./penjelasa.md)
