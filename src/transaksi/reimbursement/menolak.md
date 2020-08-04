@@ -6,7 +6,7 @@
 
 ![](../../img/reimbursement/status-waiting-for-approval.png)
 
-* User yang akan menolak harus memiliki akses untuk **[Menyetujui Document](./penjelasan.md#tab-reviews)** reimbursement.
+* User yang akan menolak harus memiliki akses untuk **[Menolak Document](./penjelasan.md#tab-reviews)** reimbursement.
 
 ## B. INSTRUKSI KERJA
 
