@@ -32,6 +32,7 @@
 ![](../../img/reimbursement/status-cancel.png)
 
 * Data **[Cancel](./penjelasan.md#field-log-cancel)** pada log reimbursement akan berisi nama user dan tanggal saat pembatalan.
+* Jika reimbursement memiliki status Waiting for Payment maka penjurnalan akuntansi akan dihapus.
 
 ## Chapter
 - [Transaksi](../../transaksi.md)

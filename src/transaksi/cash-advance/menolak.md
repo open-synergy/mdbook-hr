@@ -6,7 +6,7 @@
 
 ![](../../img/cash-advance/status-waiting-for-approval.png)
 
-* User yang akan menolak harus memiliki akses untuk **[Menyetujui Document](./penjelasan.md#tab-reviews)** Cash Advance.
+* User yang akan menolak harus memiliki akses untuk **[Menolak Document](./penjelasan.md#tab-reviews)** Cash Advance.
 
 ## B. INSTRUKSI KERJA
 
