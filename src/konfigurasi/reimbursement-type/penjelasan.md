@@ -29,41 +29,23 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 
 #### <a name="field-sequence">Sequence</a>
 
-Cara Penomoran Dokumen Jenis Reimbursement
+Sequence yang digunakan untuk mengenerate dokumen reimbursement. Pilihan diambil dari master data Sequence
 
 ### <a name="tab-allowed-product">TAB ALLOWED PRODUCTS</a>
 
 ![](../../img/reimbursement-type/tab-allowed-products.png)
 
-Tab ini digunakan untuk mengidentidikasi produk yang diperbolehkan dipilih sesuai jenis reimbursement.
-
-Identifikasi dibagi menjadi :
-* Identifikasi berdasarkan Product Category
-* Identifikasi berdasarkan Jenis Product
-
 ### <a name="tab-tab-allowed-product-category">Allowed Product Category</a>
 
 ![](../../img/reimbursement-type/tab-tab-allowed-product-category.png)
 
-**Identifikasi berdasarkan Product Category**
-
-#### <a name="field-product-category">Name</a>
-
-Nama Produk Kategori. Pilihan dari master Produk Kategori.
+Kategori produk yang produk-produknya diperbolehkan dipilih ketika membuat reimbursement.
 
 ### <a name="tab-tab-allowed-product">Allowed Product</a>
 
 ![](../../img/reimbursement-type/tab-tab-allowed-product.png)
 
-**Identifikasi berdasarkan Jenis Product**
-
-#### <a name="field-internal-reference">Internal Reference</a>
-
-Nama Referensi Internal Produk. Sesuai pilihan produk. Otomatis.
-
-#### <a name="field-product">Name</a>
-
-Nama Produk. Pilihan dari master Produk.
+Produk-produk yang diperbolehkan dipilih ketika membuat reimbursement
 
 ### <a name="tab-accounting">TAB ACCOUNTING</a>
 
@@ -71,11 +53,11 @@ Nama Produk. Pilihan dari master Produk.
 
 #### <a name="field-journal">Journal</a>
 
-Nama Jurnal untuk jenis reimbursement. Pilihan dari master Journal.
+Buku jurnal yang akan digunakan pada pembuatan penjurnalan otomatis. Pilihan diambil dari master data Journal.
 
 #### <a name="field-payable-account">Payable Account</a>
 
-Nama Akun Payable untuk jenis reimbursement. Pilihan dari tabel CoA.
+Akun utang yang akan digunakan pada pembuatan penjurnalan otomatis. Pilihan diambil dari master data Account.
 
 ### <a name="tab-workflow-policy">TAB WORKFLOW POLICY</a>
 
@@ -83,27 +65,27 @@ Nama Akun Payable untuk jenis reimbursement. Pilihan dari tabel CoA.
 
 #### <a name="field-confirm">Allow To Confirm Reimbursement</a>
 
-Identifikasi user yang diperbolehkan melakukan konfirmasi Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk mengkonfirmasi reimbursement.
 
 #### <a name="field-restart-approval">Allow To Restart Reimbursement Approval</a>
 
-Identifikasi user yang diperbolehkan melakukan restart persetujuan Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk merestart persetujuan reimbursement.
 
 #### <a name="field-change">Allow To Change Reimbursement Detail</a>
 
-Identifikasi user yang diperbolehkan melakukan perubahan isian detail Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk merubah nilai reimbursement.
 
 #### <a name="field-cancel">Allow To Cancel Reimbursement</a>
 
-Identifikasi user yang diperbolehkan membatalkan Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk membatalkan reimbursement.
 
 #### <a name="field-terminate">Allow To Terminate Reimbursement</a>
 
-Identifikasi user yang diperbolehkan melakukan terminasi Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk menterminasi reimbursement.
 
 #### <a name="field-restart">Allow To Restart Reimbursement</a>
 
-Identifikasi user yang diperbolehkan melakukan restart Reimbursement.
+Kelompok pengguna yang usernya diperbolehkan untuk merestart reimbursement.
 
 ### <a name="tab-note">TAB NOTE</a>
 

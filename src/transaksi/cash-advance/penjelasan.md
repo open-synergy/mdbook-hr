@@ -27,15 +27,15 @@ Karyawan.
 
 #### <a name="field-department">Department</a>
 
-Departemen. Akan terisi otomatis sesuai isian pada data master karyawan/*Employee*
+Unit kerja karyawan ketika membuat reimbursement. Secara default isian akan sesuai dengan isian Department dari data Employee yang dipilih. Pilihan diambil dari master data Department.
 
 #### <a name="field-manager">Manager</a>
 
-Nama Manajer. Akan terisi otomatis sesuai isian pada data master karyawan/*Employee*
+Atasan karyawan ketika membuat reimbursement. Secara default isian akan sesuai dengan isian Manager dari data Employee yang dipilih. Pilihan diambil dari master data Employee.
 
 #### <a name="field-job-position">Job Position</a>
 
-Nama Posisi pekerjaan. Akan terisi otomatis sesuai isian pada data master karyawan/*Employee*
+Posisi karyawan ketika membuat reimbursement. Secara default isian akan sesuai dengan isian Job Position dari data Employee yang dipilih. Pilihan diambil dari master data Job Position.
 
 #### <a name="field-date-request">Date Request</a>
 
@@ -55,7 +55,7 @@ Mata Uang. Pilihan diambil dari master data **currency**.
 
 #### <a name="field-product">Product</a>
 
-Nama produk yang akan dicash advance. Pilihan sesuai dengan tabel **Allowed Product Categories** atau **Allowed Products** dari **Type** yang dipilih.
+Nama produk yang akan dicash advance. Pilihan diambil dari master data Product.
 
 #### <a name="field-unit-price">Unit Price</a>
 
@@ -87,15 +87,15 @@ Jumlah total cash advance yang harus dibayarkan. Akan terhitung secara otomatis.
 
 #### <a name="field-total-payment">Total Payment</a>
 
-Total dari cash-advance yang sudah dibayarkan kepada karyawan yang mengajukan. Akan terhitung secara otomatis.
+Akan terhitung secara otomatis.
 
 #### <a name="field-total-residu">Total Residual</a>
 
-Total Residual merupakan selisih **Total** dan **Total Payment**. Akan terhitung secara otomatis.
+Selisih Total dan Total Payment. Akan terhitung secara otomatis.
 
 #### <a name="field-total-realized">Total Realized</a>
 
-Total realisasi dari cash-advance yang sudah disettlement oleh karyawan yang mengajukan. Akan terhitung secara otomatis.
+Akan terhitung secara otomatis.
 
 #### <a name="field-total-due">Total Due</a>
 
@@ -155,23 +155,23 @@ Catatan lebih detail mengenai cash-advance.
 
 #### <a name="field-can-confirm">Can Confirm</a>
 
-Identifikasi apakah user berhak melakukan proses konfirmasi cash advance.
+Berhak atau tidaknya user untuk mengkonfirmasi cash advance.
 
 #### <a name="field-can-restart-approval">Can Restart Approval</a>
 
-Identifikasi apakah user berhak melakukan proses restart persetujuan cash advance.
+Berhak atau tidaknya user untuk merestart persetujuan cash advance
 
 #### <a name="field-can-cancel">Can Cancel</a>
 
-Identifikasi apakah user berhak melakukan pembatalan cash advance.
+Berhak atau tidaknya user untuk membatalkan cash advance
 
 #### <a name="field-can-terminate">Can Terminate</a>
 
-Identifikasi apakah user berhak melakukan proses terminasi cash advance.
+Berhak atau tidaknya user untuk menterminasi cash advance
 
 #### <a name="field-can-restart">Can Restart</a>
 
-Identifikasi apakah user berhak melakukan proses restart cash advance.
+Berhak atau tidaknya user untuk merestart cash advance
 
 ### <a name="tab-log">Tab Logs</a>
 
@@ -180,27 +180,27 @@ Tab Log berisikan informasi log mengenai nama dan tanggal proses
 
 #### <a name="field-log-confirmation">Confirmation</a>
 
-Informasi mengenai nama dan kapan proses konfirmasi dilakukan.
+User yang mengkonfirmasi dan waktu konfirmasi.
 
 #### <a name="field-log-approval">Approval</a>
 
-Informasi mengenai nama dan kapan proses persetujuan dilakukan.
+User yang menyetujui dan waktu persetujuan.
 
 #### <a name="field-log-open">Open</a>
 
-Informasi mengenai nama dan kapan proses dibuka kembali.
+User yang merealisasi cash advance dan waktu realisasi.
 
 #### <a name="field-log-finish">Finish</a>
 
-Informasi mengenai nama dan kapan proses selesai dilakukan.
+User yang melakukan penyelesaian dan waktu penyelesaian.
 
 #### <a name="field-log-cancel">Cancellation</a>
 
-Informasi mengenai nama dan kapan proses pembatalan dilakukan.
+User yang membatalkan dan waktu pembatalan.
 
 #### <a name="field-log-terminate">Terminate</a>
 
-Informasi mengenai nama dan kapan proses terminate dilakukan.
+User yang menterminasi dan waktu terminasi.
 
 ### <a name="form-batal">Form Pembatalan</a>
 
