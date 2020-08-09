@@ -33,7 +33,7 @@
 22. Sesuaikan **[Allow To Restart Reimbursement](./penjelasan.md#field-restart)** jika dibutuhkan. Tidak Harus diisi.
 23. Buka **[Tab Note](./penjelasan.md#tab-tab-note)**.
 24. Sesuaikan **[Note](./penjelasan.md#field-note)** jika dibutuhkan. Tidak harus diisi.
-25. Jika akan **disimpan** Klik tombol **Save** pada bagian atas-kiri form.
+25. Klik tombol **Save** pada bagian atas-kiri form. 
 
 ![](../../img/reimbursement-type/tombol-save.png)
 

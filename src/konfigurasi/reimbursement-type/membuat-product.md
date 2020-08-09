@@ -1,7 +1,5 @@
 # Membuat Product
 
-Allowed Product **diinput** jika ada ada product yang diperbolehkan pada jenis reimbursement.
-
 *(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Reimbursement Type](./membuat.md), atau (2) [Memodifikasi Reimbursement](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
 
 ## A. INPUT
@@ -15,7 +13,7 @@ Allowed Product **diinput** jika ada ada product yang diperbolehkan pada jenis r
 
 ![](../../img/reimbursement-type/tombol-product-add-item.png)
 
-3. Pilih **[Name](./penjelasan.md#field-product)**. Centang product.
+3. Pilih **[Produk](./penjelasan.md#field-product)** yang diinginkan.
 
 ![](../../img/reimbursement-type/tombol-product-add-item-pilihan.png)
 
@@ -23,8 +21,7 @@ Allowed Product **diinput** jika ada ada product yang diperbolehkan pada jenis r
 
 ![](../../img/reimbursement-type/tombol-product-add-item-select.png)
 
-5. Ulangi [langkah ke-2](#l2) untuk setiap allowed product yang akan ditambahkan.
-6. Lanjutkan [langkah ke-9 instruksi Membuat Reimbursement Type](./membuat.md#l9) atau [langkah ke-10 instruksi Memodifikasi Reimbursement Type](./memodifikasi.md#l10).
+5. Lanjutkan [langkah ke-9 instruksi Membuat Reimbursement Type](./membuat.md#l9) atau [langkah ke-10 instruksi Memodifikasi Reimbursement Type](./memodifikasi.md#l10).
 
 ## C. OUTPUT
 
