@@ -13,7 +13,7 @@
     - [Membuat Employement Status](./konfigurasi/employment-status/membuat.md)      
     - [Memodifikasi Employement Status](./konfigurasi/employment-status/memodifikasi.md)          
     - [Menghapus Employement Status](./konfigurasi/employment-status/menghapus.md)          
-    - [Menonaktifkan Employement Status](./konfigurasi/employment-status/membuat.md)          
+    - [Menonaktifkan Employement Status](./konfigurasi/employment-status/menonaktifkan.md)          
   - [Job Family Modelling](./konfigurasi/job-family-modelling.md)
     - [Job Grade Category](./konfigurasi/job-grade-category.md)
       - [Penjelasan](./konfigurasi/job-grade-category/penjelasan.md)
