@@ -1,0 +1,1 @@
+# Menonaktifkan Expense Account Type
