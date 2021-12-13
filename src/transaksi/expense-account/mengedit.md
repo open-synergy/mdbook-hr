@@ -27,11 +27,9 @@
 12. Pilih dan sesuaikan **[Date Expire](./penjelasan.md#field-date-expire)** jika dibutuhkan. Tidak wajib diisi.
 13. Beralih ke tab **[Expense](./penjelasan.md#tab-expense)**.
 14. Isi dan sesuaikan **[Amount Limit](./penjelasan.md#field-amount-limit)** jika dibutuhkan. Wajib diisi.
-15. Beralih ke tab **[Reimbursement](./penjelasan.md#tab-reimbursement)**.
-16. <a name="l16">[Tambah](./menambahkan-reimbursement.md)/[Edit](./mengedit-reimbursement.md)/[Hapus](./menghapus-reimbursement.md) **Reimbursement**</a>. Ulangi langkah ini sampai **Reimbursement** sesuai dengan keinginan.
-17. Beralih ke tab **[Notes](./penjelasan.md#tab-notes)**.
-18. Isi dan sesuaikan **[Notes](./penjelasan.md#field-notes)** jika dibutuhkan. Tidak wajib diisi.
-19. Klik tombol **Save** pada bagian atas-kiri form.
+15. Beralih ke tab **[Notes](./penjelasan.md#tab-notes)**.
+16. Isi dan sesuaikan **[Notes](./penjelasan.md#field-notes)** jika dibutuhkan. Tidak wajib diisi.
+17. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/expense-account/tombol-simpan-modifikasi.png)
 
