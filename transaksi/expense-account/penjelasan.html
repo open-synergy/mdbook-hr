@@ -148,6 +148,140 @@
                 <div id="content" class="content">
                     <main>
                         <h1><a class="header" href="#penjelasan-expense-account" id="penjelasan-expense-account">Penjelasan Expense Account</a></h1>
+<p>Informasi pada <em>Expense Account</em> dibagi menjadi beberapa bagian, yaitu:</p>
+<ul>
+<li><a href="#bagian-header">Header</a></li>
+<li><a href="#tab-expense">Tab Expense</a></li>
+<li><a href="#tab-reviews">Tab Reviews</a></li>
+<li><a href="#tab-reimbursement">Tab Reimbursement</a></li>
+<li><a href="#tab-notes">Tab Notes</a></li>
+<li><a href="#tab-policies">Tab Policies</a></li>
+<li><a href="#tab-logs">Tab Logs</a></li>
+</ul>
+<h3><a class="header" href="#a-namebagian-headerheadera" id="a-namebagian-headerheadera"><a name="bagian-header">HEADER</a></a></h3>
+<p><img src="../../img/expense-account/bagian-header.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-no-document-documenta" id="a-namefield-no-document-documenta"><a name="field-no-document"># Document</a></a></h4>
+<p>Nomor dokumen.</p>
+<h4><a class="header" href="#a-namefield-employeeemployeea" id="a-namefield-employeeemployeea"><a name="field-employee">Employee</a></a></h4>
+<p>Nama karyawan.</p>
+<h4><a class="header" href="#a-namefield-departmentdepartmenta" id="a-namefield-departmentdepartmenta"><a name="field-department">Department</a></a></h4>
+<p>Nama departemen.</p>
+<h4><a class="header" href="#a-namefield-managermanagera" id="a-namefield-managermanagera"><a name="field-manager">Manager</a></a></h4>
+<p>Nama manager (atasan).</p>
+<h4><a class="header" href="#a-namefield-job-positionjob-positiona" id="a-namefield-job-positionjob-positiona"><a name="field-job-position">Job Position</a></a></h4>
+<p>Nama posisi pekerjaan.</p>
+<h4><a class="header" href="#a-namefield-typetypea" id="a-namefield-typetypea"><a name="field-type">Type</a></a></h4>
+<p>Tipe akun pengeluaran.</p>
+<h4><a class="header" href="#a-namefield-currencycurrencya" id="a-namefield-currencycurrencya"><a name="field-currency">Currency</a></a></h4>
+<p>Mata uang yang digunakan.</p>
+<h4><a class="header" href="#a-namefield-date-assigndate-assigna" id="a-namefield-date-assigndate-assigna"><a name="field-date-assign">Date Assign</a></a></h4>
+<p>Tanggal awal penetapan.</p>
+<h4><a class="header" href="#a-namefield-date-expiredate-expirea" id="a-namefield-date-expiredate-expirea"><a name="field-date-expire">Date Expire</a></a></h4>
+<p>Tanggal akhir berlaku.</p>
+<h4><a class="header" href="#a-nametab-expensetab-expensea" id="a-nametab-expensetab-expensea"><a name="tab-expense">TAB EXPENSE</a></a></h4>
+<p><img src="../../img/expense-account/tab-expense.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-amount-limitamount-limita" id="a-namefield-amount-limitamount-limita"><a name="field-amount-limit">Amount Limit</a></a></h4>
+<p>Batas Jumlah.</p>
+<h4><a class="header" href="#a-namefield-amount-reimbursementamount-reimbursementa" id="a-namefield-amount-reimbursementamount-reimbursementa"><a name="field-amount-reimbursement">Amount Reimbursement</a></a></h4>
+<p>Jumlah penggantian untuk pengeluaran.</p>
+<h4><a class="header" href="#a-namefield-amount-realizeamount-realizea" id="a-namefield-amount-realizeamount-realizea"><a name="field-amount-realize">Amount Realize</a></a></h4>
+<p>Jumlah realisasi.</p>
+<h4><a class="header" href="#a-namefield-amount-residualamount-residuala" id="a-namefield-amount-residualamount-residuala"><a name="field-amount-residual">Amount Residual</a></a></h4>
+<p>Jumlah sisa.</p>
+<h4><a class="header" href="#a-nametab-reviewstab-reviewsa" id="a-nametab-reviewstab-reviewsa"><a name="tab-reviews">TAB REVIEWS</a></a></h4>
+<p><img src="../../img/expense-account/tab-reviews.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-definitiondefinitiona" id="a-namefield-definitiondefinitiona"><a name="field-definition">Definition</a></a></h4>
+<p>Template multiple review yang digunakan.</p>
+<h4><a class="header" href="#a-namefield-review-partners-validationsreview-partners-validationsa" id="a-namefield-review-partners-validationsreview-partners-validationsa"><a name="field-review-partners-validations">Review Partners Validations</a></a></h4>
+<p>Nama-nama user yang dapat menyetujui/menolak <em>expense account</em></p>
+<h4><a class="header" href="#a-nametabel-validationstabel-validationsa" id="a-nametabel-validationstabel-validationsa"><a name="tabel-validations">TABEL Validations</a></a></h4>
+<p>Tahapan-tahapan persetujuan <em>expense account</em></p>
+<h4><a class="header" href="#a-namefield-validations-tiertiera" id="a-namefield-validations-tiertiera"><a name="field-validations-tier">Tier</a></a></h4>
+<p>Urutan persetujuan</p>
+<h4><a class="header" href="#a-namefield-validations-validated-byvalidated-bya" id="a-namefield-validations-validated-byvalidated-bya"><a name="field-validations-validated-by">Validated By</a></a></h4>
+<p>Metode pemilihan user-user yang dapat menyetujui/menolak <em>expense account</em>. Metode pemilihan terdiri dari 3 (tiga) yaitu:</p>
+<ol>
+<li><em>Specific user</em>. User-user yang dapat menyetujui/menolak <em>expense account</em> ditentukan langsung.</li>
+<li><em>Any user in specific group</em>. User-user yang dapat menyetujui/menolak <em>expense account</em> adalah user-user yang tergabung dalam kelompok-kelompok user yang ditentukan.</li>
+<li><em>Both specific user and group</em>. User-user yang dapat menyetujui/menolak <em>expense account</em> ditentukan langsung ditambah dengan user-user yang tergabung dalam kelompok-kelompok user yang ditentukan.</li>
+<li><em>Python code</em>. User-user yang dapat menyetujui/menolak <em>expense account</em> ditentukan oleh algoritma kode python tertentu</li>
+</ol>
+<h4><a class="header" href="#a-namefield-validations-reviewersreviewersa" id="a-namefield-validations-reviewersreviewersa"><a name="field-validations-reviewers">Reviewers</a></a></h4>
+<p>Nama-nama user yang dapat menyetujui/menolak <em>expense account</em> pada <em>tier</em> yang dimaksud.</p>
+<h4><a class="header" href="#a-namefield-validations-validated-rejectedvalidatedrejected-bya" id="a-namefield-validations-validated-rejectedvalidatedrejected-bya"><a name="field-validations-validated-rejected">Validated/Rejected By</a></a></h4>
+<p>User yang menyetujui/menolak <em>expense account</em>.</p>
+<h4><a class="header" href="#a-namefield-validations-datedatea" id="a-namefield-validations-datedatea"><a name="field-validations-date">Date</a></a></h4>
+<p>Tanggal dan waktu <strong>Validated/Rejected By</strong> menyetujui/menolak <em>expense account</em></p>
+<h4><a class="header" href="#a-namefield-validations-datestatusa" id="a-namefield-validations-datestatusa"><a name="field-validations-date">Status</a></a></h4>
+<p>Status persetujuan, terdiri dari 2 (dua) kemungkinan:</p>
+<ol>
+<li><strong>Approved</strong>. Tier disetujui.</li>
+<li><strong>Rejected</strong>. Tier ditolak.</li>
+</ol>
+<h4><a class="header" href="#a-nametab-reimbursementtab-reimbursementa" id="a-nametab-reimbursementtab-reimbursementa"><a name="tab-reimbursement">TAB REIMBURSEMENT</a></a></h4>
+<p><img src="../../img/expense-account/tab-reimbursement.png" alt="" /></p>
+<p><em>Pop Up Reimbursement</em> saat <em>add an item</em> diklik.</p>
+<p><img src="../../img/expense-account/add-item-reimbursement.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-approved-quantityapproved-quantitya" id="a-namefield-approved-quantityapproved-quantitya"><a name="field-approved-quantity">Approved Quantity</a></a></h4>
+<p>Jumlah yang disetujui.</p>
+<h4><a class="header" href="#a-namefield-unit-priceunit-pricea" id="a-namefield-unit-priceunit-pricea"><a name="field-unit-price">Unit Price</a></a></h4>
+<p>Harga satuan.</p>
+<h4><a class="header" href="#a-namefield-require-expense-accountrequire-expense-accounta" id="a-namefield-require-expense-accountrequire-expense-accounta"><a name="field-require-expense-account">Require Expense Account</a></a></h4>
+<p>Penanda dibutuhkan akun pengeluaran.</p>
+<h4><a class="header" href="#a-namefield-no-reimbursement-reimbursementa" id="a-namefield-no-reimbursement-reimbursementa"><a name="field-no-reimbursement"># Reimbursement</a></a></h4>
+<p>Nomor reimbursement.</p>
+<h4><a class="header" href="#a-namefield-employee-noteemployee-notea" id="a-namefield-employee-noteemployee-notea"><a name="field-employee-note">Employee Note</a></a></h4>
+<p>Catatan karyawan.</p>
+<h4><a class="header" href="#a-namefield-reimbursement-sequencesequencea" id="a-namefield-reimbursement-sequencesequencea"><a name="field-reimbursement-sequence">Sequence</a></a></h4>
+<p>Nomor Urut.</p>
+<h4><a class="header" href="#a-namefield-subtotalsubtotala" id="a-namefield-subtotalsubtotala"><a name="field-subtotal">Subtotal</a></a></h4>
+<p>Jumlah subtotal.</p>
+<h4><a class="header" href="#a-namefield-uomuoma" id="a-namefield-uomuoma"><a name="field-uom">UOM</a></a></h4>
+<p>Unit satuan yang digunakan.</p>
+<h4><a class="header" href="#a-namefield-analytic-accountanalytic-accounta" id="a-namefield-analytic-accountanalytic-accounta"><a name="field-analytic-account">Analytic Account</a></a></h4>
+<p>Akun analitik yang digunakan.</p>
+<h4><a class="header" href="#a-namefield-typetypea-1" id="a-namefield-typetypea-1"><a name="field-type">Type</a></a></h4>
+<p>Tipe akun pengeluaran.</p>
+<h4><a class="header" href="#a-namefield-referencereferencea" id="a-namefield-referencereferencea"><a name="field-reference">Reference</a></a></h4>
+<p>Referensi.</p>
+<h4><a class="header" href="#a-namefield-accountaccounta" id="a-namefield-accountaccounta"><a name="field-account">Account</a></a></h4>
+<p>Nama akun yang digunakan.</p>
+<h4><a class="header" href="#a-namefield-statestatea" id="a-namefield-statestatea"><a name="field-state">State</a></a></h4>
+<p>Status.</p>
+<h4><a class="header" href="#a-namefield-qtyqtya" id="a-namefield-qtyqtya"><a name="field-qty">Qty</a></a></h4>
+<p>Jumlah.</p>
+<h4><a class="header" href="#a-namefield-approved-price-unitapproved-price-unita" id="a-namefield-approved-price-unitapproved-price-unita"><a name="field-approved-price-unit">Approved Price Unit</a></a></h4>
+<p>Satuan harga yang disetujui.</p>
+<h4><a class="header" href="#a-namefield-productproducta" id="a-namefield-productproducta"><a name="field-product">Product</a></a></h4>
+<p>Nama produk.</p>
+<h4><a class="header" href="#a-namefield-expense-accountexpense-accounta" id="a-namefield-expense-accountexpense-accounta"><a name="field-expense-account">Expense Account</a></a></h4>
+<p>Nama akun pengeluaran.</p>
+<h4><a class="header" href="#a-nametab-notestab-notesa" id="a-nametab-notestab-notesa"><a name="tab-notes">TAB NOTES</a></a></h4>
+<p><img src="../../img/expense-account/tab-notes.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-notesnotesa" id="a-namefield-notesnotesa"><a name="field-notes">Notes</a></a></h4>
+<p>Catatan.</p>
+<h4><a class="header" href="#a-nametab-policiestab-policiesa" id="a-nametab-policiestab-policiesa"><a name="tab-policies">TAB POLICIES</a></a></h4>
+<p><img src="../../img/expense-account/tab-policies.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-confirmcan-confirma" id="a-namefield-confirmcan-confirma"><a name="field-confirm">Can Confirm</a></a></h4>
+<p>Berhak/tidaknya user aktif untuk dapat mengkonfirmasi expense account.</p>
+<h4><a class="header" href="#a-namefield-restart-approvalcan-restart-approvala" id="a-namefield-restart-approvalcan-restart-approvala"><a name="field-restart-approval">Can Restart Approval</a></a></h4>
+<p>Berhak/tidaknya user aktif untuk dapat merestart persetujuan expense account.</p>
+<h4><a class="header" href="#a-namefield-cancelcan-cancela" id="a-namefield-cancelcan-cancela"><a name="field-cancel">Can Cancel</a></a></h4>
+<p>Berhak/tidaknya user aktif untuk dapat membatalkan expense account.</p>
+<h4><a class="header" href="#a-namefield-terminatecan-terminatea" id="a-namefield-terminatecan-terminatea"><a name="field-terminate">Can Terminate</a></a></h4>
+<p>Berhak/tidaknya user aktif untuk dapat mengakhiri expense account.</p>
+<h4><a class="header" href="#a-namefield-restartcan-restarta" id="a-namefield-restartcan-restarta"><a name="field-restart">Can Restart</a></a></h4>
+<p>Berhak/tidaknya user aktif untuk dapat merestart expense account.</p>
+<h4><a class="header" href="#a-nametab-logstab-logsa" id="a-nametab-logstab-logsa"><a name="tab-logs">TAB LOGS</a></a></h4>
+<p><img src="../../img/expense-account/tab-logs.png" alt="" /></p>
+<h4><a class="header" href="#a-namefield-confirmationconfirmationa" id="a-namefield-confirmationconfirmationa"><a name="field-confirmation">Confirmation</a></a></h4>
+<p>Waktu konfirmasi dan user yang mengkonfirmasi expense account.</p>
+<h4><a class="header" href="#a-namefield-finishfinisha" id="a-namefield-finishfinisha"><a name="field-finish">Finish</a></a></h4>
+<p>Waktu selesai dan user yang menyelesaikan expense account.</p>
+<h4><a class="header" href="#a-namefield-cancellationcancellationa" id="a-namefield-cancellationcancellationa"><a name="field-cancellation">Cancellation</a></a></h4>
+<p>Waktu batal dan user yang membatalkan expense account.</p>
+<h4><a class="header" href="#a-namefield-terminationterminationa" id="a-namefield-terminationterminationa"><a name="field-termination">Termination</a></a></h4>
+<p>Waktu akhir dan user yang mengakhiri expense account.</p>
 
                     </main>
 
