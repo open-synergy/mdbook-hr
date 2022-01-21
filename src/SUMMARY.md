@@ -298,6 +298,7 @@
         - [Mengkonfirmasi Join Transition](./transaksi/join-transition/mengkonfirmasi.md)
         - [Menyetujui Join Transition](./transaksi/join-transition/menyetujui.md)
         - [Memvalidasi Join Transition](./transaksi/join-transition/memvalidasi.md)
+        - [Menolak Join Transition](./transaksi/join-transition/menolak.md)
         - [Membatalkan Join Transition](./transaksi/join-transition/membatalkan.md)
         - [Merestart Join Transition](./transaksi/join-transition/merestart.md)
         - [Menambahkan Timesheet Computation](./transaksi/join-transition/menambahkan-timesheet-computation.md)
