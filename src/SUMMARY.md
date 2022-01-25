@@ -350,6 +350,8 @@
         - [Mengkonfirmasi Mutation Transition](./transaksi/mutation-transition/mengkonfirmasi.md)
         - [Menyetujui Mutation Transition](./transaksi/mutation-transition/menyetujui.md)
         - [Memvalidasi Mutation Transition](./transaksi/mutation-transition/memvalidasi.md)
+        - [Menolak Mutation Transition](./transaksi/mutation-transition/menolak.md)
+        - [Merestart Persetujuan Mutation Transition](./transaksi/mutation-transition/merestart-persetujuan.md)
         - [Membatalkan Mutation Transition](./transaksi/mutation-transition/membatalkan.md)
         - [Merestart Mutation Transition](./transaksi/mutation-transition/merestart.md)
         - [Menambahkan Timesheet Computation](./transaksi/mutation-transition/menambahkan-timesheet-computation.md)
