@@ -388,6 +388,8 @@
         - [Mengkonfirmasi Termination Transition](./transaksi/termination-transition/mengkonfirmasi.md)
         - [Menyetujui Termination Transition](./transaksi/termination-transition/menyetujui.md)
         - [Memvalidasi Termination Transition](./transaksi/termination-transition/memvalidasi.md)
+        - [Menolak Termination Transition](./transaksi/termination-transition/menolak.md)
+        - [Merestart Persetujuan Termination Transition](./transaksi/termination-transition/merestart-persetujuan.md)
         - [Membatalkan Termination Transition](./transaksi/termination-transition/membatalkan.md)
         - [Merestart Termination Transition](./transaksi/termination-transition/merestart.md)
         - [Menambahkan Timesheet Computation](./transaksi/termination-transition/menambahkan-timesheet-computation.md)
