@@ -1,13 +1,14 @@
 # Penjelasan Reimbursement Type
 
 
-Informasi pada Job Family Grade dibagi menjadi 3 (tiga) area, diantaranya:
+Informasi pada *Reimbursement Type* dibagi menjadi beberapa bagian, yaitu:
 
 * [Header](#bagian-header)
 * [Tab Allowed Products](#tab-allowed-product)
     * [Allowed Product Category](#tab-tab-allowed-product-category)
     * [Allowed Product](#tab-tab-allowed-product)
 * [Tab Accounting](#tab-accounting)
+* [Tab Expense Account](#tab-expense-account)
 * [Tab Workflow Policy](#tab-workflow-policy)
 * [Tab Note](#tab-note)
 
@@ -41,11 +42,43 @@ Sequence yang digunakan untuk mengenerate dokumen reimbursement. Pilihan diambil
 
 Kategori produk yang produk-produknya diperbolehkan dipilih ketika membuat reimbursement.
 
+#### <a name="field-product-category-name">Name</a>
+
+Nama kategori produk.
+
 ### <a name="tab-tab-allowed-product">Allowed Product</a>
 
 ![](../../img/reimbursement-type/tab-tab-allowed-product.png)
 
 Produk-produk yang diperbolehkan dipilih ketika membuat reimbursement
+
+#### <a name="field-product-internal-reference">Internal Reference</a>
+
+Referensi internal.
+
+#### <a name="field-product-name">Name</a>
+
+Nama produk.
+
+#### <a name="field-product-brand">Brand</a>
+
+Nama merk.
+
+#### <a name="field-product-attributes">Attributes</a>
+
+Atribut produk.
+
+#### <a name="field-product-public-price">Public Price</a>
+
+Harga publik.
+
+#### <a name="field-product-uom">Unit of Measure</a>
+
+Satuan ukuran.
+
+#### <a name="field-product-ean13-barcode">EAN13 Barcode</a>
+
+Kode batang EAN13.
 
 ### <a name="tab-accounting">TAB ACCOUNTING</a>
 
@@ -58,6 +91,42 @@ Buku jurnal yang akan digunakan pada pembuatan penjurnalan otomatis. Pilihan dia
 #### <a name="field-payable-account">Payable Account</a>
 
 Akun utang yang akan digunakan pada pembuatan penjurnalan otomatis. Pilihan diambil dari master data Account.
+
+### <a name="tab-expense-account">TAB EXPENSE ACCOUNT</a>
+
+![](../../img/reimbursement-type/tab-expense-account.png)
+
+#### <a name="field-expense-account-code">Code</a>
+
+Kode akun pengeluaran.
+
+#### <a name="field-expense-account-name">Name</a>
+
+Nama akun pengeluaran.
+
+#### <a name="field-expense-account-secondary-currency">Secondary Currency</a>
+
+Mata uang sekunder.
+
+#### <a name="field-expense-account-exchange-rate">Exchange Rate</a>
+
+Kurs.
+
+#### <a name="field-expense-account-foreign-balance">Foreign Balance</a>
+
+Saldo mata uang asing.
+
+#### <a name="field-expense-account-adjusted-balance">Adjusted Balance</a>
+
+Saldo yang disesuaikan.
+
+#### <a name="field-expense-account-balance">Balance</a>
+
+Saldo.
+
+#### <a name="field-expense-account-gain-loss">Unrealized Gain or Loss</a>
+
+Keuntungan atau kerugian yang belum direalisasi.
 
 ### <a name="tab-workflow-policy">TAB WORKFLOW POLICY</a>
 
