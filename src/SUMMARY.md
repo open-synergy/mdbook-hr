@@ -262,6 +262,8 @@
     - [Menghapus Product Category](./konfigurasi/reimbursement-type/menghapus-product-category.md)
     - [Membuat Product](./konfigurasi/reimbursement-type/membuat-product.md)
     - [Menghapus Product](./konfigurasi/reimbursement-type/menghapus-product.md)
+    - [Menambahkan Expense Account](./konfigurasi/reimbursement-type/menambahkan-expense-account.md)
+    - [Menghapus Expense Account](./konfigurasi/reimbursement-type/menghapus-expense-account.md)
   - [Cash Advance Type](./konfigurasi/cash-advance-type.md)
     - [Penjelasan Cash Advance Type](./konfigurasi/cash-advance-type/penjelasan.md)
     - [Membuat Cash Advance Type](./konfigurasi/cash-advance-type/membuat.md)
